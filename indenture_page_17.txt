@@ -1,0 +1,43 @@
+6/3/25, 12:26 PM EX-4.1
+ARTICLE III
+THE SECURITIES
+Section 301. Amount Unlimited; Issuable in Series.
+The aggregate principal amount of Securities which may be authenticated and delivered under this Indenture is unlimited.
+The Securities may be issued in one or more series. There shall be established in or pursuant to (a) a Board Resolution or pursuant to
+authority granted by a Board Resolution and, subject to Section 303, set forth, or determined in the manner provided, in an Officer’s
+Certificate, or (b) one or more indentures supplemental hereto, prior to the issuance of Securities of any series:
+(1) the title of the Securities of the series (which shall distinguish the Securities of the series from Securities of any other series);
+(2) the limit, if any, on the aggregate principal amount of the Securities of the series which may be authenticated and delivered under
+this Indenture (except for Securities authenticated and delivered upon registration of transfer of, or in exchange for, or in lieu of,
+other Securities of the series pursuant to Section 304, Section 305, Section 306, Section 906, Section 1107 or Section 1405 and
+except for any Securities which, pursuant to Section 303, are deemed never to have been authenticated and delivered hereunder);
+provided, however, that the authorized aggregate principal amount of such series may from time to time be increased above such
+amount by a Board Resolution to such effect;
+(3) the price or prices at which the Securities will be sold;
+(4) the Person to whom any interest on a Security of the series shall be payable, if other than the Person in whose name that Security
+(or one or more Predecessor Securities) is registered at the close of business on the Regular Record Date for such interest;
+(5) the date or dates on which the principal and premium, if any, of any Securities of the series is payable or the method used to
+determine or extend those dates;
+(6) the rate or rates at which any Securities of the series shall bear interest, if any, or the method by which such rate or rates shall be
+determined, the date or dates from which any such interest shall accrue, or the method by which such date or dates shall be
+determined, the Interest Payment Dates on which any such interest shall be payable and the Regular Record Date, if any, for any
+such interest payable on any Interest Payment Date, or the method by which such date or dates shall be determined, and the
+basis upon which interest shall be calculated if other than that of a 360-day year of twelve 30-day months, the right, if any, to
+extend or defer interest payments and the duration of such extension or deferral;
+(7) the place or places where the principal of and any premium and interest on any Securities of the series shall be payable, the place
+or places where the Securities of such series may be presented for registration of transfer or exchange, the place or places where
+notices and demands to or upon the Company in respect of the Securities of such series may be made and the manner in which
+any payment may be made;
+(8) the period or periods within which or the date or dates on which, the price or prices at which, the currency or currency units in
+which, and the terms and conditions upon which any Securities of the series may be redeemed, in whole or in part, at the option of
+the Company and, if other than by a Board Resolution, the manner in which any election by the Company to redeem the Securities
+shall be evidenced;
+(9) the obligation or the right, if any, of the Company to redeem or purchase any Securities of the series pursuant to any sinking fund,
+amortization or analogous provisions or at the option of the Holder thereof and the period or periods within which, the price or
+prices at which, the currency or currency units in which, and the terms and conditions upon which any Securities of the series shall
+be redeemed or purchased, in whole or in part, pursuant to such obligation;
+(10) if other than denominations of $2,000 and any integral multiple of $1,000 in excess thereof, the denominations in which any
+Securities of the series shall be issuable;
+(11) if other than the Trustee, the identity of each Security Registrar and/or Paying Agent;
+12
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 17/51

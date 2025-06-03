@@ -1,0 +1,37 @@
+6/3/25, 12:26 PM EX-4.1
+(3) Subject to clause (2) above, and subject to such applicable provisions, if any, as may be specified as contemplated by
+Section 301, any exchange of a Global Security for other Securities may be made in whole or in part, and all Securities issued in
+exchange for a Global Security or any portion thereof shall be registered in such names as the Depositary for such Global Security
+shall direct.
+(4) Every Security authenticated and delivered upon registration of transfer of, or in exchange for or in lieu of, a Global Security or any
+portion thereof, whether pursuant to this Section 305, Section 304, Section 306, Section 906, Section 1107 or Section 1405 or
+otherwise, shall be authenticated and delivered in the form of, and shall be, a Global Security, unless such Security is registered in
+the name of a Person other than the Depositary for such Global Security or a nominee thereof.
+The Trustee shall have no obligation or duty to monitor, determine or inquire as to compliance with any restrictions on transfer imposed
+under this Indenture or under applicable law with respect to any transfer of any interest in any Security (including any transfers between or
+among Depositary participants or beneficial owners of interests in any Global Security) other than to require delivery of such certificates and
+other documentation or evidence as are expressly required by, and to do so if and when expressly required by the terms of, this Indenture,
+and to examine the same to determine substantial compliance as to form with the express requirements hereof.
+Neither the Trustee nor any agent of the Trustee shall have any responsibility for any actions taken or not taken by the Depositary.
+Section 306. Mutilated, Destroyed, Lost and Stolen Securities.
+If any mutilated Security is surrendered to the Trustee, the Company shall execute and the Trustee shall authenticate and deliver in
+exchange therefor a new Security of the same series and of like tenor and principal amount and bearing a number not contemporaneously
+outstanding and shall cancel and dispose of such mutilated security in accordance with its customary procedures.
+If there shall be delivered to the Company and the Trustee (1) evidence to their satisfaction of the destruction, loss or theft of any
+Security and (2) such security or indemnity as may be required by them to save each of them and any agent of either of them harmless, then,
+in the absence of notice to the Company or the Trustee that such Security has been acquired by a bona fide purchaser, the Company shall
+execute and the Trustee shall authenticate and deliver, in lieu of any such destroyed, lost or stolen Security, a new Security of the same series
+and of like tenor and principal amount and bearing a number not contemporaneously outstanding.
+In case any such mutilated, destroyed, lost or stolen Security has become or is about to become due and payable, the Company in its
+discretion may, instead of issuing a new Security, pay such Security.
+Upon the issuance of any new Security under this Section 306, the Company may require the payment of a sum sufficient to cover any
+tax or other governmental charge that may be imposed in relation thereto and any other expenses (including the fees and expenses of
+counsel to the Company and the fees and expenses of the Trustee and its counsel) connected therewith.
+Every new Security of any series issued pursuant to this Section 306 in lieu of any mutilated, destroyed, lost or stolen Security shall
+constitute an original additional contractual obligation of the Company, whether or not the mutilated, destroyed, lost or stolen Security shall be
+at any time enforceable by anyone, and shall be entitled to all the benefits of this Indenture equally and proportionately with any and all other
+Securities of such series duly issued hereunder.
+The provisions of this Section 306 are exclusive and shall preclude (to the extent lawful) all other rights and remedies with respect to the
+replacement or payment of mutilated, destroyed, lost or stolen Securities.
+17
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 22/51

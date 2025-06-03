@@ -1,0 +1,37 @@
+6/3/25, 12:26 PM EX-4.1
+Without limiting the foregoing, a Holder entitled hereunder to take any action hereunder with regard to any particular Security may do so
+with regard to all or any part of the principal amount of such Security or by one or more duly appointed agents each of which may do so
+pursuant to such appointment with regard to all or any part of such principal amount.
+Section 105. Notices, Etc., to Trustee and Company.
+Any request, demand, authorization, direction, notice, consent, waiver or Act of Holders or other document provided or permitted by this
+Indenture to be made upon, given or furnished to, or filed with,
+(1) the Trustee by any Holder or by the Company shall be sufficient for every purpose hereunder if made, given, furnished or filed in
+writing (which may be by facsimile) to or with the Trustee at its Corporate Trust Office at the location specified in Section 101; or
+(2) the Company by the Trustee or by any Holder shall be sufficient for every purpose hereunder (unless otherwise herein expressly
+provided) if in writing and mailed, first-class postage prepaid, to the Company addressed to the attention of the Secretary of the
+Company at the address of the Company’s principal office specified in writing to the Trustee by the Company and, until further
+notice, at Apple Inc., One Apple Park Way, MS 169-5GC, Cupertino, California 95014, fax number: (408) 974-8530, Attention:
+Office of the General Counsel.
+In addition to the foregoing, the Trustee agrees to accept and act upon notice, instructions or directions pursuant to this Indenture sent
+by unsecured e-mail, facsimile transmission or other similar unsecured electronic methods. If the party elects to give the Trustee e-mail or
+facsimile instructions (or instructions by a similar electronic method) and the Trustee in its discretion elects to act upon such instructions, the
+Trustee’s understanding of such instructions shall be deemed controlling. The Trustee shall not be liable for any losses, costs or expenses
+arising directly or indirectly from the Trustee’s reliance upon and compliance with such instructions notwithstanding such instructions conflict
+or are inconsistent with a subsequent written instruction. The party providing electronic instructions agrees to assume all risks arising out of
+the use of such electronic methods to submit instructions and directions to the Trustee, including without limitation the risk of the Trustee
+acting on unauthorized instructions, and the risk or interception and misuse by third parties.
+Section 106. Notice to Holders; Waiver.
+Where this Indenture provides for notice to Holders of any event, such notice shall be sufficiently given (unless otherwise herein
+expressly provided) if in writing and mailed, first-class postage prepaid, to each Holder affected by such event, at such Holder’s address as it
+appears in the Security Register, not later than the latest date, if any, and not earlier than the earliest date, if any, prescribed for the giving of
+such notice. In any case where notice to Holders is given by mail, neither the failure to mail such notice, nor any defect in any notice so
+mailed, to any particular Holder shall affect the sufficiency of such notice with respect to other Holders. Any notice when mailed to a Holder in
+the aforesaid manner shall be conclusively deemed to have been received by such Holder whether or not actually received by such Holder.
+Where this Indenture provides for notice in any manner, such notice may be waived in writing by the Person entitled to receive such notice,
+either before or after the event, and such waiver shall be the equivalent of such notice. Waivers of notice by Holders shall be filed with the
+Trustee, but such filing shall not be a condition precedent to the validity of any action taken in reliance upon such waiver.
+In case by reason of the suspension of regular mail service or by reason of any other cause it shall be impracticable to give such notice
+by mail, then such notification as shall be made with the approval of the Trustee shall constitute a sufficient notification for every purpose
+hereunder.
+8
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 13/51

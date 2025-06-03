@@ -1,0 +1,45 @@
+6/3/25, 12:26 PM EX-4.1
+Section 504. Trustee May File Proofs of Claim.
+In case of any judicial proceeding relative to the Company (or any other obligor upon the Securities), its property or its creditors, the
+Trustee shall be entitled and empowered, by intervention in such proceeding or otherwise, to take any and all actions authorized under the
+Trust Indenture Act in order to have claims of the Holders and the Trustee allowed in any such proceeding. In particular, the Trustee shall be
+authorized to collect and receive any moneys or other property payable or deliverable on any such claims and to distribute the same; and any
+custodian, receiver, assignee, trustee, liquidator, sequestrator or other similar official in any such judicial proceeding is hereby authorized by
+each Holder to make such payments to the Trustee and, in the event that the Trustee shall consent to the making of such payments directly to
+the Holders, to pay to the Trustee any amount due it and any predecessor Trustee under Section 607.
+No provision of this Indenture shall be deemed to authorize the Trustee to authorize or consent to or accept or adopt on behalf of any
+Holder any plan of reorganization, arrangement, adjustment or composition affecting the Securities or the rights of any Holder thereof or to
+authorize the Trustee to vote in respect of the claim of any Holder in any such proceeding; provided, however, that the Trustee may, on behalf
+of the Holders, vote for the election of a trustee in bankruptcy or similar official and be a member of a creditors’ or other similar committee.
+Section 505. Trustee May Enforce Claims Without Possession of Securities.
+All rights of action and claims under this Indenture or the Securities may be prosecuted and enforced by the Trustee without the
+possession of any of the Securities or the production thereof in any proceeding relating thereto, and any such proceeding instituted by the
+Trustee shall be brought in its own name as trustee of an express trust, and any recovery of judgment shall, after provision for the payment of
+the reasonable compensation, expenses, disbursements and advances of the Trustee, any predecessor Trustee under Section 607, its agents
+and counsel, be for the ratable benefit of the Holders of the Securities in respect of which such judgment has been recovered.
+Section 506. Application of Money Collected.
+Any money collected by the Trustee pursuant to this Article V shall be applied in the following order, at the date or dates fixed by the
+Trustee and, in case of the distribution of such money on account of principal or premium, if any, or interest, upon presentation of the
+Securities and the notation thereon of the payment if only partially paid and upon surrender thereof if fully paid:
+FIRST: To the payment of all amounts due the Trustee under Section 607;
+SECOND: To the payment of the amounts then due and unpaid for principal of and premium, if any, and interest on the Securities
+in respect of which or for the benefit of which such money has been collected, ratably, without preference or priority of any kind (other
+than contractual subordination agreements pursuant to the Indenture), according to the amounts due and payable on such Securities for
+principal and premium, if any, and interest, respectively; and
+THIRD: To the payment of the remainder, if any, to the Company.
+Section 507. Limitation on Suits.
+No Holder of any Security of any series shall have any right to institute any proceeding, judicial or otherwise, with respect to this
+Indenture, or for the appointment of a receiver, assignee, trustee, liquidator or sequestrator (or similar official) or for any other remedy
+hereunder, unless:
+(1) such Holder has previously given written notice to the Trustee of a continuing Event of Default with respect to the Securities of
+such series;
+(2) the Holders of not less than 33% in aggregate principal amount of the Outstanding Securities of such series shall have made
+written request to the Trustee to institute proceedings in respect of such Event of Default in its own name as Trustee hereunder;
+(3) such Holder or Holders have offered to the Trustee indemnity reasonably satisfactory to it against the costs, expenses and
+liabilities to be incurred in compliance with such request;
+(4) the Trustee has failed to institute any such proceeding for 60 days after its receipt of such notice, request and offer of indemnity;
+and
+(5) no direction inconsistent with such written request has been given to the Trustee during such 60-day period by the Holders of a
+majority in aggregate principal amount of the Outstanding Securities of such series;
+23
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 28/51

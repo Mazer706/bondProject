@@ -1,0 +1,42 @@
+6/3/25, 12:26 PM EX-4.1
+(2) if the terms of such Securities have been established by or pursuant to Board Resolution or pursuant to authority granted by one
+or more Board Resolutions as permitted by Section 301, that such terms have been established in conformity with the provisions
+of this Indenture; and
+(3) that such Securities, when authenticated by the Trustee and issued and delivered by the Company in the manner and subject to
+any conditions specified in such Opinion of Counsel, will constitute valid and legally binding obligations of the Company
+enforceable in accordance with their terms, subject to (i) the effects of bankruptcy, insolvency, fraudulent conveyance,
+reorganization, moratorium and other similar laws relating to or affecting creditors’ rights generally, (ii) general equitable principles
+and (iii) an implied covenant of good faith and fair dealing.
+If such form or terms have been so established, the Trustee shall not be required to authenticate such Securities if the issue of such
+Securities pursuant to this Indenture will materially adversely affect the Trustee’s own rights, duties or immunities under the Securities and this
+Indenture or otherwise in a manner which is not reasonably acceptable to the Trustee.
+Notwithstanding the provisions of Section 301 and of the preceding paragraph of this Section 303, if all Securities of a series are not to
+be originally issued at one time, including in the event that the aggregate principal amount of a series of Outstanding Securities is increased
+as contemplated by Section 301, it shall not be necessary to deliver the Officer’s Certificate, Board Resolution or supplemental indenture
+otherwise required pursuant to Section 301 or the Company Order and Opinion of Counsel otherwise required pursuant to this Section 303 at
+or prior to the authentication of each Security of such series if such documents are delivered at or prior to the authentication upon original
+issuance of the first Security of such series to be issued.
+Each Security shall be dated the date of its authentication.
+No Security shall be entitled to any benefit under this Indenture or be valid or obligatory for any purpose unless there appears on such
+Security a certificate of authentication substantially in the form provided for herein executed by the Trustee by manual signature, and such
+certificate upon any Security shall be conclusive evidence, and the only evidence, that such Security has been duly authenticated and
+delivered hereunder. Notwithstanding the foregoing, if any Security shall have been authenticated and delivered hereunder but never issued
+and sold by the Company, and the Company shall deliver such Security to the Trustee for cancellation as provided in Section 309, for all
+purposes of this Indenture such Security shall be deemed never to have been authenticated and delivered hereunder and shall never be
+entitled to the benefits of this Indenture.
+Section 304. Temporary Securities.
+Pending the preparation of definitive Securities of any series, the Company may execute, and, upon Company Order, the Trustee shall
+authenticate and deliver, temporary Securities which are printed, lithographed, typewritten, mimeographed or otherwise produced, in any
+authorized denomination, substantially of the tenor of the definitive Securities of such series in lieu of which they are issued and with such
+appropriate insertions, omissions, substitutions and other variations as the officers executing such Securities may determine, as evidenced by
+their execution of such Securities.
+If temporary Securities of any series are issued, the Company will cause definitive Securities of such series to be prepared without
+unreasonable delay. After the preparation of definitive Securities of such series, the temporary Securities of such series shall be
+exchangeable for definitive Securities of such series upon surrender of the temporary Securities of such series at the office or agency of the
+Company in a Place of Payment for such series, without charge to the Holder. Upon surrender for cancellation of any one or more temporary
+Securities of any series, the Company shall execute and the Trustee shall authenticate and deliver in exchange therefor one or more definitive
+Securities of the same series, of any authorized denominations and of like tenor and aggregate principal amount. Until so exchanged, the
+temporary Securities of any series shall in all respects be entitled to the same benefits under this Indenture as definitive Securities of such
+series and tenor.
+15
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 20/51

@@ -1,0 +1,41 @@
+6/3/25, 12:26 PM EX-4.1
+“Defeasance” has the meaning specified in Section 1302.
+“Depositary” means, with respect to Securities of any series issuable in whole or in part in the form of one or more Global Securities, a
+clearing agency registered under the Exchange Act that is designated to act as Depositary for such Securities as contemplated by
+Section 301.
+“Event of Default” has the meaning specified in Section 501.
+“Exchange Act” means the U.S. Securities Exchange Act of 1934 and any statute successor thereto, in each case as amended from
+time to time.
+“Expiration Date” has the meaning specified in Section 104.
+“GAAP” means generally accepted accounting principles in the United States as in effect from time to time.
+“Global Security” means a Security that evidences all or part of the Securities of any series and bears the legend set forth in Section 202
+(or such legend as may be specified as contemplated by Section 301 for such Securities).
+“Holder” means a Person in whose name a Security is registered in the Security Register.
+“Indenture” means this instrument as originally executed and as it may from time to time be supplemented or amended by one or more
+indentures supplemental hereto entered into pursuant to the applicable provisions hereof, including, for all purposes of this instrument and
+any such supplemental indenture, the provisions of the Trust Indenture Act that are deemed to be a part of and govern this instrument and any
+such supplemental indenture, respectively. The term “Indenture” shall also include the terms of particular series of Securities established as
+contemplated by Section 301.
+“interest” means, when used with respect to an Original Issue Discount Security which by its terms bears interest only after Maturity,
+interest payable after Maturity.
+“Interest Payment Date” means, when used with respect to any Security, the Stated Maturity of an installment of interest on such
+Security.
+“Internal Revenue Code” means the U.S. Internal Revenue Code of 1986, as amended from time to time.
+“Maturity” means, when used with respect to any Security, the date on which the principal of such Security or an installment of principal
+becomes due and payable as therein or herein provided, whether at the Stated Maturity or by declaration of acceleration, call for redemption
+or otherwise.
+“Notice of Default” means a written notice of the kind specified in Section 501.
+“Officer” means the Chief Executive Officer, the Chief Financial Officer, the Corporate Treasurer, the Corporate Controller, the General
+Counsel and Secretary, or any Assistant Secretary of the Company.
+“Officer’s Certificate” means a certificate signed by an Officer of the Company (or any Person designated in writing by an Officer of the
+Company as authorized to execute and deliver Officer’s Certificates) and delivered to the Trustee.
+“Opinion of Counsel” means a written opinion of counsel (who may be counsel for the Company) and which shall be reasonably
+acceptable to the Trustee. The counsel may be an employee of the Company. Opinions of Counsel required to be delivered under this
+Indenture may have qualifications customary for opinions of the type required.
+“Original Issue Discount Security” means any Security which provides for an amount less than the principal amount thereof to be due
+and payable upon a declaration of acceleration of the Maturity thereof pursuant to Section 502.
+“Outstanding” means, when used with respect to Securities, as of the date of determination, all Securities theretofore authenticated and
+delivered under this Indenture, except:
+(1) Securities theretofore cancelled by the Trustee or delivered to the Trustee for cancellation;
+3
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 8/51

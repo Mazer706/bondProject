@@ -1,0 +1,51 @@
+6/3/25, 12:26 PM EX-4.1
+Section 1302. Defeasance and Discharge.
+Upon the Company’s exercise of its option, if any, to have this Section 1302 applied to any Securities or any series of Securities, as the
+case may be, or if this Section 1302 shall otherwise apply to any Securities or any series of Securities, as the case may be, the Company
+shall be deemed to have been discharged from its obligations with respect to such Securities as provided in this Section 1302 on and after the
+date the conditions set forth in Section 1304 are satisfied (hereinafter called “Defeasance”). For this purpose, such Defeasance means that
+the Company shall be deemed to have paid and discharged the entire indebtedness represented by such Securities and to have satisfied all
+its other obligations under such Securities and this Indenture insofar as such Securities are concerned (and the Trustee, at the expense of the
+Company, shall execute proper instruments acknowledging the same), subject to the following which shall survive until otherwise terminated
+or discharged hereunder: (1) the rights of Holders of such Securities to receive, solely from the trust fund described in Section 1304 and as
+more fully set forth in such Section 1305, payments in respect of the principal of and premium, if any, and interest on such Securities when
+payments are due, (2) the Company’s obligations with respect to such Securities under Section 304, Section 305, Section 306, Section 1002
+and Section 1003, (3) the rights, powers, trusts, duties and immunities of the Trustee hereunder and (4) this Article XIII. Subject to compliance
+with this Article XIII, the Company may exercise its option, if any, to have this Section 1302 applied to the Securities of any series
+notwithstanding the prior exercise of its option, if any, to have Section 1303 applied to such Securities.
+Section 1303. Covenant Defeasance.
+Upon the Company’s exercise of its option, if any, to have this Section 1303 applied to any Securities or any series of Securities, as the
+case may be, or if this Section 1303 shall otherwise apply to any Securities or any series of Securities, as the case may be, (1) the Company
+shall be released from its obligations under any covenants provided pursuant to Section 301(21), Section 901(1) or Section 901(8) for the
+benefit of the Holders of such Securities and (2) the occurrence of any event specified in Section 501(3) and Section 501(6) shall be deemed
+not to be or result in an Event of Default, in each case with respect to such Securities as provided in this Section 1303 on and after the date
+the conditions set forth in Section 1304 are satisfied (hereinafter called “Covenant Defeasance”). For this purpose, such Covenant
+Defeasance means that, with respect to such Securities, the Company may omit to comply with and shall have no liability in respect of any
+term, condition or limitation set forth in any such specified Section, whether directly or indirectly by reason of any reference elsewhere herein
+to any such Section or by reason of any reference in any such Section to any other provision herein or in any other document, but the
+remainder of this Indenture and such Securities shall be unaffected thereby.
+Section 1304. Conditions to Defeasance or Covenant Defeasance.
+The following shall be the conditions to the application of Section 1302 or Section 1303 to any Securities or any series of Securities, as
+the case may be:
+(1) The Company shall irrevocably have deposited or caused to be deposited with the Trustee (or another trustee which satisfies the
+requirements contemplated by Section 609 and agrees to comply with the provisions of this Article XIII applicable to it) as trust
+funds in trust for the purpose of making the following payments, specifically pledged as security for, and dedicated solely to, the
+benefits of the Holders of such Securities, (A) money in an amount, or (B) U.S. Government Obligations which through the
+scheduled payment of principal and interest in respect thereof in accordance with their terms will provide money in an amount, or
+(C) a combination thereof, in each case sufficient, in the opinion of an independent public accountant or financial advisor
+expressed in a written certification thereof delivered to the Trustee, to pay and discharge, and which shall be applied by the
+Trustee (or any such other qualifying trustee) to pay and discharge, the principal of and premium, if any, and interest on such
+Securities on the respective Stated Maturities, in accordance with the terms of this Indenture and such Securities. As used herein,
+“U.S. Government Obligation” means (x) any security which is (i) a direct obligation of the United States of America for the
+payment of which the full faith and credit of the United States of America is pledged or (ii) an obligation of a Person controlled or
+supervised by and acting as an agency or instrumentality of the United States of America the payment of which is unconditionally
+guaranteed as a full faith and credit obligation by the United States of America, which, in either case (i) or (ii), is not callable or
+redeemable at the option of the issuer thereof, and (y) any depositary receipt issued by a bank (as defined in Section 3(a)(2) of the
+Securities Act) as custodian with respect to any U.S. Government Obligation which is specified in clause (x) above and held by
+such bank for the account of the holder of such depositary receipt, or with respect to any specific payment of principal of or interest
+on any U.S. Government Obligation which is so specified and held; provided that (except as required by law) such custodian is not
+authorized to make any deduction from the amount payable to the holder of such depositary receipt from any amount received by
+the custodian in respect of the U.S. Government Obligation or the specific payment of principal or interest evidenced by such
+depositary receipt.
+42
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 47/51

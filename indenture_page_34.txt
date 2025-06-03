@@ -1,0 +1,50 @@
+6/3/25, 12:26 PM EX-4.1
+Section 609. Corporate Trustee Required; Eligibility.
+There shall at all times be one (and only one) Trustee hereunder with respect to the Securities of each series, which may be Trustee
+hereunder for Securities of one or more other series. Each Trustee shall be a Person that is eligible pursuant to the Trust Indenture Act to act
+as such, has a combined capital and surplus of at least $50,000,000 and has its Corporate Trust Office in the Borough of Manhattan, The City
+of New York or any other major city in the United States that is acceptable to the Company. If any such Person publishes reports of condition
+at least annually, pursuant to law or to the requirements of its supervising or examining authority, then for the purposes of this Section 609
+and to the extent permitted by the Trust Indenture Act, the combined capital and surplus of such Person shall be deemed to be its combined
+capital and surplus as set forth in its most recent annual report of condition so published. If at any time the Trustee with respect to the
+Securities of any series shall cease to be eligible in accordance with the provisions of this Section 609, it shall resign immediately in the
+manner and with the effect hereinafter specified in this Article VI.
+Section 610. Resignation and Removal; Appointment of Successor.
+No resignation or removal of the Trustee and no appointment of a successor Trustee pursuant to this Article VI shall become effective
+until the acceptance of appointment by the successor Trustee in accordance with the applicable requirements of Section 611.
+The Trustee may resign at any time with respect to the Securities of one or more series by giving written notice thereof to the Company.
+If the instrument of acceptance by a successor Trustee required by Section 611 shall not have been delivered to the Trustee within 30 days
+after the giving of such notice of resignation, the resigning Trustee, at the expense of the Company, may petition any court of competent
+jurisdiction for the appointment of a successor Trustee with respect to the Securities of such series.
+The Trustee may be removed at any time with respect to the Securities of any series by Act of the Holders of a majority in aggregate
+principal amount of the Outstanding Securities of such series, upon written notice delivered to the Trustee and to the Company. If the
+instrument of acceptance by a successor Trustee required by Section 611 shall not have been delivered to the Trustee within 30 days after the
+giving of such notice of removal, the Trustee being removed, at the expense of the Company, may petition any court of competent jurisdiction
+for the appointment of a successor Trustee with respect to the Securities of such series.
+If at any time:
+(1) the Trustee shall fail to comply with Section 608 after written request therefor by the Company or by any Holder who has been a
+bona fide Holder of a Security for at least six months, or
+(2) the Trustee shall cease to be eligible under Section 609 and shall fail to resign after written request therefor by the Company or by
+any such Holder, or
+(3) the Trustee shall become incapable of acting or shall be adjudged bankrupt or insolvent or a receiver of the Trustee or of its
+property shall be appointed or any public officer shall take charge or control of the Trustee or of its property or affairs for the
+purpose of rehabilitation, conservation or liquidation,
+then, in any such case, (A) the Company may remove the Trustee with respect to all Securities or (B) subject to Section 513, Holders of 10%
+in aggregate principal amount of Securities of any series who have been bona fide Holders of such Securities for at least six months may, on
+behalf of themselves and all others similarly situated, petition any court of competent jurisdiction for the removal of the Trustee with respect to
+all Securities and the appointment of a successor Trustee or Trustees.
+If the Trustee shall resign, be removed or become incapable of acting, or if a vacancy shall occur in the office of Trustee for any cause,
+with respect to the Securities of one or more series, the Company shall promptly appoint a successor Trustee or Trustees with respect to the
+Securities of that or those series (it being understood that any such successor Trustee may be appointed with respect to the Securities of one
+or more or all of such series and that at any time there shall be only one Trustee with respect to the Securities of any particular series) and
+shall comply with the applicable requirements of Section 611. If a successor Trustee with respect to the Securities of any series shall be
+appointed by Act of the Holders of a majority in aggregate principal amount of the Outstanding Securities of such series delivered to the
+Company and the retiring Trustee, the successor Trustee so appointed shall, forthwith upon its acceptance of such appointment in
+accordance with the applicable requirements of Section 611, become the successor Trustee with respect to the Securities of such series and
+to that extent supersede the successor Trustee appointed by the Company. If no successor Trustee with respect to the Securities of any
+series shall have been so appointed by the Company or the Holders and accepted appointment in the manner required by Section 611,
+Holders of 10% in aggregate principal amount of Securities of any series who have been bona fide Holders of Securities of such series for at
+least six months may, on behalf of themselves and all others similarly situated, petition any court of competent jurisdiction for the appointment
+of a successor Trustee with respect to the Securities of such series.
+29
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 34/51

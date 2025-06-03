@@ -1,0 +1,40 @@
+6/3/25, 12:26 PM EX-4.1
+(2) Securities for whose payment or redemption money in the necessary amount has been theretofore deposited with the Trustee or
+any Paying Agent (other than the Company) in trust or set aside and segregated in trust by the Company (if the Company shall act
+as its own Paying Agent) for the Holders of such Securities; provided that, if such Securities are to be redeemed, notice of such
+redemption has been duly given pursuant to this Indenture or provision therefor satisfactory to the Trustee has been made;
+(3) Securities as to which Defeasance has been effected pursuant to Section 1302;
+(4) Securities which have been paid pursuant to Section 306 or in exchange for or in lieu of which other Securities have been
+authenticated and delivered pursuant to this Indenture, other than any such Securities in respect of which there shall have been
+presented to the Trustee proof satisfactory to it that such Securities are held by a bona fide purchaser in whose hands such
+Securities are valid obligations of the Company; and
+(5) Securities as to which any property deliverable upon conversion thereof has been delivered (or such delivery has been made
+available), or as to which any other particular conditions have been satisfied, in each case as may be provided for such Securities
+as contemplated in Section 301;
+provided, however, that in determining whether the Holders of the requisite principal amount of the Outstanding Securities have given, made
+or taken any request, demand, authorization, direction, notice, consent, waiver or other action hereunder as of any date, (A) the principal
+amount of an Original Issue Discount Security which shall be deemed to be Outstanding shall be the amount of the principal thereof which
+would be due and payable as of such date upon acceleration of the Maturity thereof to such date pursuant to Section 502, (B) if, as of such
+date, the principal amount payable at the Stated Maturity of a Security is not determinable, the principal amount of such Security which shall
+be deemed to be Outstanding shall be the amount as specified or determined as contemplated by Section 301, (C) the principal amount of a
+Security denominated in one or more foreign currencies, composite currencies or currency units which shall be deemed to be Outstanding
+shall be the U.S. dollar equivalent, determined as of such date in the manner provided as contemplated by Section 301, of the principal
+amount of such Security (or, in the case of a Security described in clause (A) or (B) above, of the amount determined as provided in such
+clause), and (D) Securities owned by the Company or any other obligor upon the Securities or any Affiliate of the Company or of such other
+obligor shall be disregarded and deemed not to be Outstanding, except that, in determining whether the Trustee shall be protected in relying
+upon any such request, demand, authorization, direction, notice, consent, waiver or other action, only Securities which a Responsible Officer
+of the Trustee knows to be so owned shall be so disregarded. Securities so owned which have been pledged in good faith may be regarded
+as Outstanding if the pledgee establishes to the satisfaction of the Trustee the pledgee’s right so to act with respect to such Securities and
+that the pledgee is not the Company or any other obligor upon the Securities or any Affiliate of the Company or of such other obligor.
+“Paying Agent” means any Person authorized by the Company to pay the principal of or premium, if any, or interest on any Securities on
+behalf of the Company. The Company initially authorizes and appoints the Trustee as the Paying Agent for each series of the Securities.
+“Person” means any individual, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust,
+unincorporated organization or government or any agency or political subdivision thereof or any other entity.
+“Place of Payment” means, when used with respect to the Securities of any series, the place or places where the principal of and
+premium, if any, and interest on the Securities of such series are payable as specified as contemplated by Section 301.
+“Predecessor Security” means, with respect to any particular Security, every previous Security evidencing all or a portion of the same
+debt as that evidenced by such particular Security; and, for the purposes of this definition, any Security authenticated and delivered under
+Section 306 in exchange for or in lieu of a mutilated, destroyed, lost or stolen Security shall be deemed to evidence the same debt as the
+mutilated, destroyed, lost or stolen Security.
+4
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 9/51

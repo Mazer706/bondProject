@@ -1,0 +1,40 @@
+6/3/25, 12:26 PM EX-4.1
+Section 1403. Exercise of Option.
+Securities of any series subject to repayment at the option of the Holders thereof will contain an “Option to Elect Repayment” form on
+the reverse of such Securities. To be repaid at the option of the Holder, any Security so providing for such repayment, with the “Option to Elect
+Repayment” form on the reverse of such Security duly completed by the Holder (or by the Holder’s attorney duly authorized in writing), must
+be received by the Company at the Place of Payment therefor specified in the terms of such Security (or at such other place or places of
+which the Company shall from time to time notify the Holders of such Securities) not earlier than 45 days nor later than 30 days prior to the
+Repayment Date. If less than the entire principal amount of such Security is to be repaid in accordance with the terms of such Security, the
+principal amount of such Security to be repaid, in increments of the minimum denomination for Securities of such series, and the
+denomination or denominations of the Security or Securities to be issued to the Holder for the portion of the principal amount of such Security
+surrendered that is not to be repaid, must be specified. The principal amount of any Security providing for repayment at the option of the
+Holder thereof may not be repaid in part if, following such repayment, the unpaid principal amount of such Security would be less than the
+minimum authorized denomination of Securities of the series of which such Security to be repaid is a part. Except as otherwise may be
+provided by the terms of any Security providing for repayment at the option of the Holder thereof, exercise of the repayment option by the
+Holder shall be irrevocable unless waived by the Company.
+Section 1404. When Securities Presented for Repayment Become Due and Payable.
+If Securities of any series providing for repayment at the option of the Holders thereof shall have been surrendered as provided in this
+Article XIV and as provided by or pursuant to the terms of such Securities, such Securities or the portions thereof, as the case may be, to be
+repaid shall become due and payable and shall be paid by the Company on the Repayment Date therein specified, and on and after such
+Repayment Date (unless the Company shall default in the payment of such Securities on such Repayment Date) such Securities shall, if the
+same were interest-bearing, cease to bear interest. Upon surrender of any such Security for repayment in accordance with such provisions,
+the principal amount of such Security so to be repaid shall be paid by the Company, together with accrued interest and/or premium, if any, to
+(but excluding) the Repayment Date; provided, however, that, unless otherwise specified as contemplated by Section 301, installments of
+interest, if any, whose Stated Maturity is on or prior to the Repayment Date shall be payable (but without interest thereon, unless the
+Company shall default in the payment thereof) to the Holders of such Securities, or one or more Predecessor Securities, registered as such at
+the close of business on the relevant Record Dates according to their terms and the provisions of Section 307.
+If the principal amount of any Security surrendered for repayment shall not be so repaid upon surrender thereof, such principal amount
+(together with interest, if any, thereon accrued to such Repayment Date) and any premium shall, until paid, bear interest from the Repayment
+Date at the rate of interest or yield to maturity (in the case of Original Issue Discount Securities) set forth in such Security.
+Section 1405. Securities Repaid in Part.
+Upon surrender of any Security which is to be repaid in part only, the Company shall execute and the Trustee shall authenticate and
+deliver to the Holder of such Security, without service charge and at the expense of the Company, a new Security or Securities of the same
+series, of any authorized denomination specified by the Holder, in a principal amount equal to and in exchange for the portion of the principal
+of such Security so surrendered which is not to be repaid.
+* * *
+This Indenture may be executed in any number of counterparts, each of which so executed shall be deemed to be an original, but all
+such counterparts shall together constitute but one and the same instrument.
+[Signature page follows]
+45
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 50/51

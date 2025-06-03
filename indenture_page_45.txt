@@ -1,0 +1,42 @@
+6/3/25, 12:26 PM EX-4.1
+Notice of redemption of Securities to be redeemed at the election of the Company shall be given by the Company or, at the Company’s
+request (which may be rescinded or revoked at any time prior to the time at which the Trustee shall have given such notice to the Holders), by
+the Trustee in the name and at the expense of the Company. The notice, if sent in the manner herein provided, shall be conclusively
+presumed to have been given, whether or not the Holder receives such notice. In any case, failure to give such notice by mail or otherwise in
+accordance with the Applicable Procedures or any defect in the notice to the Holder of any Security designated for redemption as a whole or
+in part shall not affect the validity of the proceedings for the redemption of any other Securities.
+Section 1105. Deposit of Redemption Price.
+By no later than 11:00 a.m. (New York City time) on any Redemption Date, the Company shall deposit with the Trustee or with a Paying
+Agent (or, if the Company is acting as its own Paying Agent, segregate and hold in trust as provided in Section 1003) an amount of money
+sufficient to pay the Redemption Price of, and (except if the Redemption Date shall be an Interest Payment Date or the Securities of the
+series provide otherwise) accrued interest on, all the Securities which are to be redeemed on that date, other than Securities or portions of
+Securities called for redemption which are owned by the Company or a Subsidiary and have been delivered by the Company or such
+Subsidiary to the Trustee for cancellation. All money, if any, earned on funds held by the Paying Agent shall be remitted to the Company. In
+addition, the Paying Agent shall promptly return to the Company any money deposited with the Paying Agent by the Company in excess of the
+amounts necessary to pay the Redemption Price of, and accrued interest, if any, on, all Securities to be redeemed.
+If any Security called for redemption is converted, any money deposited with the Trustee or with any Paying Agent or so segregated and
+held in trust for the redemption of such Security shall (subject to any right of the Holder of such Security or any Predecessor Security to
+receive interest as provided in the last paragraph of Section 307 or in the terms of such Security) be paid to the Company upon Company
+Request or, if then held by the Company, shall be discharged from such trust.
+Section 1106. Securities Payable on Redemption Date.
+Notice of redemption having been given as aforesaid, the Securities so to be redeemed shall, on the Redemption Date, become due
+and payable at the Redemption Price therein specified, and from and after such date (unless the Company shall default in the payment of the
+Redemption Price and accrued interest) such Securities shall cease to bear interest. Upon surrender of any such Security for redemption in
+accordance with said notice, such Security shall be paid by the Company at the Redemption Price, together, if applicable, with accrued
+interest to the Redemption Date; provided, however, that, unless otherwise specified as contemplated by Section 301, installments of interest
+whose Stated Maturity is on or prior to the Redemption Date will be payable to the Holders of such Securities, or one or more Predecessor
+Securities, registered as such at the close of business on the relevant Record Dates according to their terms and the provisions of
+Section 307; provided further that, unless otherwise specified as contemplated by Section 301, if the Redemption Date is after a Regular
+Record Date and on or prior to the Interest Payment Date, the accrued and unpaid interest shall be payable to the Holder of the redeemed
+Securities registered on the relevant Regular Record Date.
+If any Security called for redemption shall not be so paid upon surrender thereof for redemption, the principal and premium, if any, shall,
+until paid, bear interest from the Redemption Date at the rate prescribed therefor in the Security.
+Section 1107. Securities Redeemed in Part.
+Any Security which is to be redeemed only in part shall be surrendered at a Place of Payment therefor (with, if the Company or the
+Trustee so requires, due endorsement by, or a written instrument of transfer in form satisfactory to the Company and the Trustee duly
+executed by, the Holder thereof or such Holder’s attorney duly authorized in writing), and the Company shall execute, and the Trustee shall
+authenticate and deliver to the Holder of such Security without service charge, a new Security or Securities of the same series and of like
+tenor, of any authorized denomination as requested by such Holder, in principal amount equal to and in exchange for the unredeemed portion
+of the principal of the Security so surrendered.
+40
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 45/51

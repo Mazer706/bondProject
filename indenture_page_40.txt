@@ -1,0 +1,42 @@
+6/3/25, 12:26 PM EX-4.1
+Section 902. Supplemental Indentures With Consent of Holders.
+With the consent of the Holders of not less than a majority in aggregate principal amount of the Outstanding Securities of each series
+affected by such supplemental indenture (including consents obtained in connection with a tender offer or exchange for Securities), by Act of
+said Holders delivered to the Company and the Trustee, the Company and the Trustee may enter into an indenture or indentures
+supplemental hereto for the purpose of adding any provisions to or changing in any manner or eliminating any of the provisions of this
+Indenture or of modifying in any manner the rights of the Holders of Securities of such series under this Indenture; provided, however, no such
+supplemental indenture shall, without the consent of the Holder of each Outstanding Security of such series affected thereby:
+(1) change the Stated Maturity of the principal of, or any installment of principal of or interest on, any Security;
+(2) reduce the principal amount of any Security or reduce the amount of the principal of an Original Issue Discount Security or any
+other Security which would be due and payable upon a declaration of acceleration of the Maturity thereof pursuant to Section 502,
+or reduce the rate of interest on any Security;
+(3) reduce any premium payable upon the redemption of or change the date on which any Security may or must be redeemed (it
+being understood that a change to any notice requirement with respect to such date shall not be deemed to be a change of such
+date);
+(4) change the coin or currency in which the principal of or premium, if any, or interest on any Security is payable;
+(5) impair the right of any Holder to institute suit for the enforcement of any such payment on or after the Stated Maturity thereof (or, in
+the case of redemption, on or after the Redemption Date);
+(6) reduce the percentage in principal amount of the Outstanding Securities of any series, the consent of whose Holders is required
+for any such supplemental indenture, or the consent of whose Holders is required for any waiver (of compliance with certain
+provisions of this Indenture or certain defaults hereunder and their consequences) provided for in this Indenture;
+(7) modify any of the provisions of this Section 902, Section 512 or Section 1005, except to increase any such percentage or to
+provide that certain other provisions of this Indenture cannot be modified or waived without the consent of the Holder of each
+Outstanding Security affected thereby; provided, however, that this clause shall not be deemed to require the consent of any
+Holder with respect to changes in the references to “the Trustee” and concomitant changes in this Section 902 and Section 1005,
+or the deletion of this proviso, in accordance with the requirements of Section 611 and Section 901(6); or
+(8) if the Securities of any series are convertible into or for any other securities or property of the Company, make any change that
+adversely affects in any material respect the right to convert any Security of such series (except as permitted by Section 901) or
+decrease the conversion rate or increase the conversion price of any such Security of such series, unless such decrease or
+increase is permitted by the terms of such Security.
+A supplemental indenture which changes or eliminates any covenant or other provision of this Indenture which has expressly been
+included solely for the benefit of one or more particular series of Securities, or which modifies the rights of the Holders of Securities of such
+series with respect to such covenant or other provision, shall be deemed not to affect the rights under this Indenture of the Holders of
+Securities of any other series.
+It shall not be necessary for any Act of Holders under this Section 902 to approve the particular form of any proposed supplemental
+indenture, but it shall be sufficient if such Act shall approve the substance thereof.
+After a supplemental indenture under this Section 902 becomes effective, the Company shall mail to the Trustee a notice briefly
+describing such supplemental indenture or a copy of such supplemental indenture and the Trustee shall mail such notice or supplemental
+indenture to Holders affected thereby. Any failure of the Company to mail such notice, or any defect therein, or any failure of the Company to
+mail such supplemental indenture, shall not in any way impair or affect the validity of any such supplemental indenture.
+35
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 40/51

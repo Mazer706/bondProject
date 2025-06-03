@@ -1,0 +1,35 @@
+6/3/25, 12:26 PM EX-4.1
+A copy of each such report shall, at the time of such transmission to Holders, be filed by the Trustee with each stock exchange and
+automated quotation system, if any, upon which any Securities are listed, with the Commission and with the Company. The Company will
+notify the Trustee when any Securities are listed on any stock exchange or automated quotation system or delisted therefrom.
+Section 704. Reports by Company.
+The Company shall file with the Trustee, and transmit to the Holders, such information, documents and other reports, and such
+summaries thereof, as may be required pursuant to the Trust Indenture Act. Delivery of such reports, information and documents to the
+Trustee is for informational purposes only and shall not constitute a representation or warranty as to the accuracy or completeness of the
+reports, information and documents. All required reports, information and documents referred to in this Section 704 shall be deemed filed with
+the Trustee and transmitted to the Holders at the time such reports, information or documents are publicly filed with the Commission via the
+Commission’s EDGAR filing system (or any successor system). For purposes of clarification, the foregoing sentence does not impose on the
+Trustee any duty to search for or obtain any electronic or other filings that the Company makes with the Commission, regardless of whether
+such filings are periodic, supplemental or otherwise. The Trustee’s receipt of such shall not constitute constructive notice of any information
+contained therein or determinable from information contained therein, including the Company’s compliance with any of its covenants
+hereunder (as to which the Trustee is entitled to rely exclusively on Officer’s Certificates).
+ARTICLE VIII
+CONSOLIDATION, MERGER
+AND SALE OF ASSETS
+Section 801. Company May Merge or Transfer Assets Only on Certain Terms.
+The Company shall not consolidate with or merge with or into, or sell, transfer, lease or convey all or substantially all of its properties
+and assets to, in one transaction or a series of related transactions, any other Person, unless:
+(1) the Company shall be the continuing entity, or the resulting, surviving or transferee Person (the “Successor”) shall be a Person (if
+such Person is not a corporation, then the Successor shall include a corporate co-issuer of the Securities) organized and existing
+under the laws of the United States of America, any State thereof or the District of Columbia and the Successor (if not the
+Company) shall expressly assume, by an indenture supplemental hereto, executed and delivered to the Trustee, in form
+reasonably satisfactory to the Trustee, all the obligations of the Company under the Securities and this Indenture and, for each
+Security that by its terms provides for conversion, shall have provided for the right to convert such Security in accordance with its
+terms; and
+(2) immediately after giving effect to such transaction, no Default or Event of Default shall have occurred and be continuing.
+Section 802. Successor Corporation Substituted.
+The Successor shall succeed to, and be substituted for, and may exercise every right and power of, the Company under the Indenture,
+with the same effect as if the Successor had been an original party to this Indenture, and the Company shall be released from all its liabilities
+and obligations under this Indenture and the Securities.
+33
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 38/51

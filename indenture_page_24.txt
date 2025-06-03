@@ -1,0 +1,41 @@
+6/3/25, 12:26 PM EX-4.1
+Section 309. Cancellation.
+All Securities surrendered for payment, redemption, registration of transfer or exchange or conversion or for credit against any sinking
+fund payment shall, if surrendered to any Person other than the Trustee, be delivered to the Trustee and shall be promptly cancelled by it. The
+Company may at any time deliver to the Trustee for cancellation any Securities previously authenticated and delivered hereunder which the
+Company may have acquired in any manner whatsoever, and may deliver to the Trustee (or to any other Person for delivery to the Trustee)
+for cancellation any Securities previously authenticated hereunder which the Company has not issued and sold, and all Securities so
+delivered shall be promptly cancelled by the Trustee. No Securities shall be authenticated in lieu of or in exchange for any Securities
+cancelled as provided in this Section 309, except as expressly permitted by this Indenture. All cancelled Securities held by the Trustee shall
+be disposed of in accordance with its customary procedures. The Trustee shall provide the Company a list of all Securities that have been
+cancelled from time to time as requested by the Company.
+Section 310. Computation of Interest.
+Except as otherwise specified as contemplated by Section 301 for Securities of any series, interest on the Securities of each series shall
+be computed on the basis of a 360-day year of twelve 30-day months.
+Section 311. CUSIP Numbers.
+The Company in issuing any series of the Securities may use “CUSIP” or “ISIN” numbers and/or other similar numbers, if then generally
+in use, and thereafter with respect to such series, the Trustee may use such numbers in any notice of redemption with respect to such series;
+provided that any such notice may state that no representation is made as to the correctness of such numbers either as printed on the
+Securities of such series or as contained in any notice of a redemption and that reliance may be placed only on the other identification
+numbers printed on the Securities of such series, and any such redemption shall not be affected by any defect in or omission of such
+numbers.
+Section 312. Original Issue Discount.
+If any of the Securities is an Original Issue Discount Security, the Company shall file with the Trustee promptly at the end of each
+calendar year (1) a written notice specifying the amount of original issue discount (including daily rates and accrual periods) accrued on such
+Outstanding Original Issue Discount Securities as of the end of such year and (2) such other specific information relating to such original
+issue discount as may then be relevant under the Internal Revenue Code.
+ARTICLE IV
+SATISFACTION AND DISCHARGE
+Section 401. Satisfaction and Discharge of Indenture.
+This Indenture shall, upon Company Request, cease to be of further effect with respect to any series of Securities specified in such
+Company Request (except as to any surviving rights of registration of transfer or exchange of Securities of such series herein expressly
+provided for), and the Trustee, at the expense of the Company, shall execute proper instruments acknowledging satisfaction and discharge of
+this Indenture as to such series, when:
+(1) either
+(A) all Securities of such series theretofore authenticated and delivered (other than (i) Securities which have been mutilated,
+destroyed, lost or stolen and which have been replaced or paid as provided in Section 306 and (ii) Securities for whose
+payment money has theretofore been deposited in trust or segregated and held in trust by the Company and thereafter
+repaid to the Company or discharged from such trust, as provided in Section 1003) have been delivered to the Trustee for
+cancellation; or
+19
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 24/51

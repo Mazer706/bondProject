@@ -1,0 +1,42 @@
+6/3/25, 12:26 PM EX-4.1
+Section 1004. Statement by Officers as to Default.
+The Company shall deliver to the Trustee within 120 days after the end of each fiscal year of the Company ending after the date hereof
+an Officer’s Certificate, stating whether or not, to the best knowledge of such officer, the Company is in default in the performance and
+observance of any of the terms, provisions and conditions of this Indenture (without regard to any period of grace or requirement of notice
+provided hereunder) and, if the Company shall be in default, specifying all such defaults and the nature and status thereof of which they may
+have knowledge.
+Section 1005. Waiver of Certain Covenants.
+Except as otherwise specified as contemplated by Section 301 for Securities of such series, the Company may, with respect to the
+Securities of any series, omit in any particular instance to comply with any term, provision or condition set forth in any covenant provided
+pursuant to Section 301(21), Section 901(1) or Section 901(8) for the benefit of the Holders of such series, if before the time for such
+compliance the Holders of at least a majority in aggregate principal amount of the Outstanding Securities of such series shall, by Act of such
+Holders, either waive such compliance in such instance or generally waive compliance with such term, provision or condition, but no such
+waiver shall extend to or affect such term, provision or condition except to the extent so expressly waived, and, until such waiver shall become
+effective, the obligations of the Company and the duties of the Trustee in respect of any such term, provision or condition shall remain in full
+force and effect.
+ARTICLE XI
+REDEMPTION OF SECURITIES
+Section 1101. Applicability of Article.
+Securities of any series which are redeemable before their Stated Maturity shall be redeemable in accordance with their terms and
+(except as otherwise specified as contemplated by Section 301 for such Securities) in accordance with this Article XI.
+Section 1102. Election to Redeem; Notice to Trustee.
+The election of the Company to redeem any Securities shall be evidenced by a Board Resolution or an Officer’s Certificate or in another
+manner specified as contemplated by Section 301 for such Securities. In case of any redemption at the election of the Company of the
+Securities of any series (including any such redemption affecting only a single Security), the Company shall, at least 45 days prior to the
+Redemption Date fixed by the Company (unless a shorter notice shall be satisfactory to the Trustee), notify the Trustee of such Redemption
+Date, of the principal amount of Securities of such series to be redeemed and, if applicable, of the tenor of the Securities to be redeemed. In
+the case of any redemption of Securities (a) prior to the expiration of any restriction on such redemption provided in the terms of such
+Securities or elsewhere in this Indenture, or (b) pursuant to an election of the Company which is subject to a condition specified in the terms
+of such Securities or elsewhere in this Indenture, the Company shall furnish the Trustee with an Officer’s Certificate evidencing compliance
+with such restriction or condition.
+Section 1103. Selection by Trustee of Securities to Be Redeemed.
+If less than all the Securities of any series are to be redeemed (unless all the Securities of such series and of a specified tenor are to be
+redeemed or unless such redemption affects only a single Security), the particular Securities to be redeemed shall be selected not more than
+60 days prior to the Redemption Date, from the Outstanding Securities of such series not previously called for redemption, by lot or, in the
+case of Global Securities, pursuant to applicable Depositary procedures; provided that the unredeemed portion of the principal amount of any
+Security shall be in an authorized denomination (which shall not be less than the minimum authorized denomination) for such Security. If less
+than all the Securities of such series and of a specified tenor are to be redeemed (unless such redemption affects only a single Security), the
+particular Securities to be redeemed shall be selected not more than 60 days prior to the Redemption Date, from the Outstanding Securities
+of such series and specified tenor not previously called for redemption in accordance with the preceding sentence.
+38
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 43/51

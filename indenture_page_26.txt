@@ -1,0 +1,45 @@
+6/3/25, 12:26 PM EX-4.1
+(2) the Company defaults in the payment of the principal of or premium, if any, on any Security of such series when the same
+becomes due and payable at its Stated Maturity, upon optional redemption, upon declaration or otherwise;
+(3) the Company defaults in the performance of, or breaches any of its covenants and agreements in respect of any Security of
+such series contained in this Indenture or in the Securities of such series (other than a covenant or agreement, a default in the
+performance of which or a breach of which is elsewhere in this Section specifically dealt with or that has expressly been included in this
+Indenture solely for the benefit of a series of Securities other than that series), and such default or breach continues for a period of 90
+days after the notice specified below;
+(4) the Company, pursuant to or within the meaning of the Bankruptcy Law (as defined below):
+(A) commences a voluntary case or proceeding;
+(B) consents to the entry of an order for relief against it in an involuntary case or proceeding;
+(C) consents to the appointment of a Custodian (as defined below) of it or for all or substantially all of its property;
+(D) makes a general assignment for the benefit of its creditors;
+(E) files a petition in bankruptcy or answer or consent seeking reorganization or relief;
+(F) consents to the filing of such petition or the appointment of or taking possession by a Custodian; or
+(G) takes any comparable action under any foreign laws relating to insolvency;
+(5) a court of competent jurisdiction enters an order or decree under any Bankruptcy Law that:
+(A) is for relief against the Company in an involuntary case, or adjudicates the Company insolvent or bankrupt;
+(B) appoints a Custodian of the Company or for all or substantially all of the property of the Company; or
+(C) orders the winding-up or liquidation of the Company (or any similar relief is granted under any foreign laws)
+and the order or decree remains unstayed and in effect for 90 consecutive days; or
+(6) any other Event of Default provided with respect to Securities of such series occurs.
+The term “Bankruptcy Law” means Title 11, United States Code, or any similar federal or state or foreign law for the relief of debtors.
+The term “Custodian” means any custodian, receiver, trustee, assignee, liquidator or other similar official under any Bankruptcy Law.
+A Default with respect to Securities of any series under clause (3) of this Section 501 shall not be an Event of Default until the Trustee
+(by written notice to the Company) or the Holders of at least 33% in aggregate principal amount of the outstanding Securities of such series
+(by written notice to the Company and the Trustee) gives notice of the Default and the Company does not cure such Default within the time
+specified in clause (3) after receipt of such notice. Such notice must specify the Default, demand that it be remedied and state that such
+notice is a “Notice of Default.”
+Section 502. Acceleration of Maturity; Rescission and Annulment.
+If an Event of Default with respect to Securities of any series at the time Outstanding (other than an Event of Default specified in
+Section 501 (4) or (5) with respect to the Company) occurs and is continuing, then in every such case the Trustee or the Holders of not less
+than 33% in aggregate principal amount of the Outstanding Securities of such series may declare the principal amount of all the Securities of
+such series (or, if any Securities of that series are Original Issue Discount Securities, such portion of the principal amount of such Securities
+as may be specified by the terms thereof), together with any accrued and unpaid interest thereon, to be due and payable immediately, by a
+notice in writing to the Company (and to the Trustee if given by Holders), and upon any such declaration, such principal amount (or specified
+amount), together with any accrued and unpaid interest thereon, shall become immediately due and payable. If an Event of Default specified
+in Section 501(4) or (5) with respect to the Securities of any series at the time Outstanding occurs, the principal amount of all the Securities of
+such series (or, in the case of any Security of such series which specifies an amount to be due and payable thereon upon acceleration of the
+Maturity thereof, such amount as maybe specified by the terms thereof), together with any accrued and unpaid interest thereon, shall
+automatically, and without any declaration or other action on the part of the Trustee or any Holder, become immediately due and payable.
+Upon payment of such amount, all obligations of the Company in respect of the payment of principal and interest of the Securities of such
+series shall terminate.
+21
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 26/51

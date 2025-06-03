@@ -1,0 +1,37 @@
+6/3/25, 12:26 PM EX-4.1
+Where this Indenture provides for notice of any event to a Holder of a Global Security, such notice shall be sufficiently given if given to
+the Depositary for such Security (or its designee), pursuant to the Applicable Procedures of the Depositary, not later than the latest date, if
+any, and not earlier than the earliest date, if any, prescribed for the giving of such notice.
+Section 107. Conflict with Trust Indenture Act.
+If any provision of this Indenture limits, qualifies or conflicts with a provision of the Trust Indenture Act which is required under such Act
+to be a part of and govern this Indenture, the latter provision shall control. If any provision of this Indenture modifies or excludes any provision
+of the Trust Indenture Act which may be so modified or excluded, the latter provision shall be deemed to apply to this Indenture as so modified
+or to be excluded, as the case may be.
+Section 108. Effect of Headings and Table of Contents.
+The Article and Section headings herein and the Table of Contents are for convenience only and shall not affect the construction hereof.
+Section 109. Successors and Assigns.
+All covenants and agreements in this Indenture by the Company shall bind its successors and assigns, whether so expressed or not. All
+agreements of the Trustee in this Indenture shall bind its successors and assigns, whether so expressed or not.
+Section 110. Separability Clause.
+In case any provision in this Indenture or in the Securities shall be invalid, illegal or unenforceable, the validity, legality and enforceability
+of the remaining provisions shall not in any way be affected or impaired thereby.
+Section 111. Benefits of Indenture.
+Nothing in this Indenture or in the Securities, express or implied, shall give to any Person, other than the parties hereto and their
+successors hereunder and the Holders, any benefit or any legal or equitable right, remedy or claim under this Indenture.
+Section 112. Governing Law.
+This Indenture and the Securities shall be governed by, and construed in accordance with, the law of the State of New York.
+Section 113. Legal Holidays.
+In any case where any Interest Payment Date, Redemption Date, Repayment Date or Stated Maturity of any Security, or any date on
+which a Holder has the right to convert such Holder’s Security, shall not be a Business Day at any Place of Payment, then (notwithstanding
+any other provision of this Indenture or of the Securities (other than a provision of any Security which specifically states that such provision
+shall apply in lieu of this Section 113)) payment of principal and premium, if any, or interest, or the Redemption Price or conversion of such
+Security, shall not be made at such Place of Payment on such date, but shall be made on the next succeeding Business Day at such Place of
+Payment with the same force and effect as if made on the Interest Payment Date, Redemption Date or Repayment Date, or at the Stated
+Maturity, or on such conversion date. In the case, however, of Securities of a series bearing interest at a floating rate based on the London
+interbank offered rate (LIBOR), if any Interest Payment Date (other than the Redemption Date, Repayment Date or Stated Maturity) would
+otherwise be a date that is not a Business Day, then the Interest Payment Date shall be postponed to the following date which is a Business
+Day, unless that Business Day falls in the next succeeding calendar month, in which case the Interest Payment Date will be the Business Day
+immediately preceding the scheduled Interest Payment Date. No interest shall accrue for the period from and after any such Interest Payment
+Date, Redemption Date, Repayment Date, Stated Maturity or conversion date, as the case may be, to the date of such payment.
+9
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 14/51

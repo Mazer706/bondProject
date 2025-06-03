@@ -1,0 +1,43 @@
+6/3/25, 12:26 PM EX-4.1
+(12) if the amount of principal of or premium, if any, or interest on any Securities of the series may be determined with reference to a
+financial or economic measure or index or pursuant to a formula, the manner in which such amounts shall be determined;
+(13) if other than the currency of the United States of America, the currency, currencies or currency units in which the principal of or
+premium, if any, or interest on any Securities of the series shall be payable and the manner of determining the equivalent thereof
+in the currency of the United States of America for any purpose, including for purposes of the definition of “Outstanding” in
+Section 101;
+(14) if the principal of or premium, if any, or interest on any Securities of the series is to be payable, at the election of the Company or
+the Holder thereof, in one or more currencies or currency units other than that or those in which such Securities are stated to be
+payable, the currency, currencies or currency units in which the principal of or premium, if any, or interest on such Securities as to
+which such election is made shall be payable, the periods within which or the dates on which and the terms and conditions upon
+which such election is to be made and the amount so payable (or the manner in which such amount shall be determined);
+(15) if the provisions of Section 401 relating to the satisfaction and discharge of this Indenture shall apply to the Securities of that
+series; or if provisions for the satisfaction and discharge of this Indenture other than as set forth in Section 401 shall apply to the
+Securities of that series;
+(16) if other than the entire principal amount thereof, the portion of the principal amount of any Securities of the series which shall be
+payable upon declaration of acceleration of the Maturity thereof pursuant to Section 502 or the method by which such portion shall
+be determined;
+(17) if the principal amount payable at the Stated Maturity of any Securities of the series will not be determinable as of any one or more
+dates prior to the Stated Maturity, the amount which shall be deemed to be the principal amount of such Securities as of any such
+date for any purpose thereunder or hereunder, including the principal amount thereof which shall be due and payable upon any
+Maturity other than the Stated Maturity or which shall be deemed to be Outstanding as of any date prior to the Stated Maturity (or,
+in any such case, the manner in which such amount deemed to be the principal amount shall be determined);
+(18) if other than by a Board Resolution, the manner in which any election by the Company to defease any Securities of the series
+pursuant to Section 1302 or Section 1303 shall be evidenced; whether any Securities of the series other than Securities
+denominated in U.S. dollars and bearing interest at a fixed rate are to be subject to Section 1302 or Section 1303; or, in the case
+of Securities denominated in U.S. dollars and bearing interest at a fixed rate, if applicable, that the Securities of the series, in
+whole or any specified part, shall not be defeasible pursuant to Section 1302 or Section 1303 or both such Sections;
+(19) if applicable, that any Securities of the series shall be issuable in whole or in part in the form of one or more Global Securities and,
+in such case, the respective Depositaries for such Global Securities, the form of any legend or legends which shall be borne by
+any such Global Security in addition to or in lieu of that set forth in Section 202 and any circumstances in addition to or in lieu of
+those set forth in clause (2) of the last paragraph of Section 305 in which any such Global Security may be exchanged in whole or
+in part for Securities registered, and any transfer of such Global Security in whole or in part may be registered, in the name or
+names of Persons other than the Depositary for such Global Security or a nominee thereof;
+(20) any addition to, deletion from or change in the Events of Default which applies to any Securities of the series and any change in
+the right of the Trustee or the requisite Holders of such Securities to declare the principal amount thereof due and payable
+pursuant to Section 502;
+(21) any addition to, deletion from or change in the covenants set forth in Article X which applies to Securities of the series;
+(22) the terms of any right to convert or exchange Securities of such series into any other securities or property of the Company or of
+any other corporation or Person, and the additions or changes, if any, to this Indenture with respect to the Securities of such series
+to permit or facilitate such conversion or exchange;
+13
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 18/51

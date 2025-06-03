@@ -1,0 +1,42 @@
+6/3/25, 12:26 PM EX-4.1
+ARTICLE XII
+SINKING FUNDS
+Section 1201. Applicability of Article.
+The provisions of this Article XII shall be applicable to any sinking fund for the retirement of Securities of any series except as otherwise
+specified as contemplated by Section 301 for such Securities.
+The minimum amount of any sinking fund payment provided for by the terms of any series of Securities is herein referred to as a
+“mandatory sinking fund payment,” and any payment in excess of such minimum amount provided for by the terms of such Securities is
+herein referred to as an “optional sinking fund payment.” If provided for by the terms of any series of Securities, the cash amount of any
+sinking fund payment may be subject to reduction as provided in Section 1202. Each sinking fund payment shall be applied to the redemption
+of Securities of the series as provided for by the terms of such Securities.
+Section 1202. Satisfaction of Sinking Fund Payments with Securities.
+The Company (1) may deliver Outstanding Securities of a series (other than any previously called for redemption) and (2) may apply as
+a credit Securities of a series which have been redeemed either at the election of the Company pursuant to the terms of such Securities or
+through the application of permitted optional sinking fund payments pursuant to the terms of such Securities, in each case in satisfaction of all
+or any part of any sinking fund payment with respect to any Securities of such series required to be made pursuant to the terms of such
+Securities as and to the extent provided for by the terms of such Securities; provided that the Securities to be so credited have not been
+previously so credited. The Securities to be so credited shall be received and credited for such purpose by the Trustee at the Redemption
+Price, as specified in the Securities so to be redeemed, for redemption through operation of the sinking fund and the amount of such sinking
+fund payment shall be reduced accordingly.
+Section 1203. Redemption of Securities for Sinking Fund.
+Not less than 60 days (or such shorter period as shall be satisfactory to the Trustee) prior to each sinking fund payment date for any
+Securities, the Company will deliver to the Trustee an Officer’s Certificate specifying the amount of the next ensuing sinking fund payment for
+such Securities pursuant to the terms of such Securities, the portion thereof, if any, which is to be satisfied by payment of cash and the portion
+thereof, if any, which is to be satisfied by delivering and crediting Securities pursuant to Section 1202 and will also deliver to the Trustee any
+Securities to be so delivered. Not less than 30 days prior to each such sinking fund payment date, the Securities to be redeemed upon such
+sinking fund payment date shall be selected in the manner specified in Section 1103 and the Company shall cause notice of the redemption
+thereof to be given in the name of and at the expense of the Company in the manner provided in Section 1104. Such notice having been duly
+given, the redemption of such Securities shall be made upon the terms and in the manner stated in Section 1106 and Section 1107.
+ARTICLE XIII
+DEFEASANCE AND COVENANT DEFEASANCE
+Section 1301. Company’s Option to Effect Defeasance or Covenant Defeasance.
+Unless otherwise provided as contemplated by Section 301, Section 1302 and Section 1303 shall apply to all Securities or each series
+of Securities, as the case may be, in either case, denominated in U.S. dollars and bearing interest at a fixed rate, in accordance with any
+applicable requirements provided pursuant to Section 301 and upon compliance with the conditions set forth below in this Article XIII; and the
+Company may elect, at its option at any time, to have Section 1302 and Section 1303 applied to any Securities or any series of Securities, as
+the case may be, pursuant to such Section 1302 or Section 1303, in accordance with any applicable requirements provided pursuant to
+Section 301 and upon compliance with the conditions set forth below in this Article XIII. Any such election to have or not to have Section 1302
+and Section 1303 apply, as the case may be, shall be evidenced by a Board Resolution, Officer’s Certificate or in another manner specified as
+contemplated by Section 301 for such Securities.
+41
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 46/51

@@ -1,0 +1,34 @@
+6/3/25, 12:26 PM EX-4.1
+Section 613. Preferential Collection of Claims Against Company.
+If and when the Trustee shall be or become a creditor of the Company (or any other obligor upon the Securities), the Trustee shall be
+subject to the provisions of the Trust Indenture Act regarding the collection of claims against the Company (or any such other obligor)
+Section 614. Appointment of Authenticating Agent.
+The Trustee may appoint an Authenticating Agent or Agents with respect to one or more series of Securities which shall be authorized to
+act on behalf of the Trustee to authenticate Securities of such series issued upon original issue and upon exchange, registration of transfer or
+partial redemption thereof or pursuant to Section 306, and Securities so authenticated shall be entitled to the benefits of this Indenture and
+shall be valid and obligatory for all purposes as if authenticated by the Trustee hereunder. Wherever reference is made in this Indenture to the
+authentication and delivery of Securities by the Trustee or the Trustee’s certificate of authentication, such reference shall be deemed to
+include authentication and delivery on behalf of the Trustee by an Authenticating Agent and a certificate of authentication executed on behalf
+of the Trustee by an Authenticating Agent. Each Authenticating Agent shall be acceptable to the Company and shall at all times be a
+corporation organized and doing business under the laws of the United States of America, any state thereof or the District of Columbia,
+authorized under such laws to act as Authenticating Agent, having a combined capital and surplus of not less than $50,000,000 and subject to
+supervision or examination by federal or state authority. If such Authenticating Agent publishes reports of condition at least annually, pursuant
+to law or to the requirements of said supervising or examining authority, then for the purposes of this Section 614, the combined capital and
+surplus of such Authenticating Agent shall be deemed to be its combined capital and surplus as set forth in its most recent report of condition
+so published. If at any time an Authenticating Agent shall cease to be eligible in accordance with the provisions of this Section 614, such
+Authenticating Agent shall resign immediately in the manner and with the effect specified in this Section 614.
+Any corporation into which an Authenticating Agent may be merged or converted or with which it may be consolidated, or any
+corporation resulting from any merger, conversion or consolidation to which such Authenticating Agent shall be a party, or any corporation
+succeeding to all or substantially all of the corporate agency or corporate trust business of an Authenticating Agent shall be the successor
+Authenticating Agent hereunder, provided such corporation shall be otherwise eligible under this Section 614, without the execution or filing of
+any paper or any further act on the part of the Trustee or the Authenticating Agent.
+An Authenticating Agent may resign at any time by giving written notice thereof to the Trustee and to the Company. The Trustee may at
+any time terminate the agency of an Authenticating Agent by giving written notice thereof to such Authenticating Agent and to the Company.
+Upon receiving such a notice of resignation or upon such a termination, or in case at any time such Authenticating Agent shall cease to be
+eligible in accordance with the provisions of this Section 614, the Trustee may appoint a successor Authenticating Agent which shall be
+acceptable to the Company and shall give notice of such appointment in the manner provided in Section 106 to all Holders of Securities of the
+series with respect to which such Authenticating Agent will serve. Any successor Authenticating Agent upon acceptance of its appointment
+hereunder shall become vested with all the rights, powers and duties of its predecessor hereunder, with like effect as if originally named as an
+Authenticating Agent. No successor Authenticating Agent shall be appointed unless eligible under the provisions of this Section 614.
+31
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 36/51

@@ -1,0 +1,48 @@
+6/3/25, 12:26 PM EX-4.1
+The Company shall give notice of each resignation and each removal of the Trustee with respect to the Securities of any series and
+each appointment of a successor Trustee with respect to the Securities of any series to all Holders of Securities of such series in the manner
+provided in Section 106. Each notice shall include the name of the successor Trustee with respect to the Securities of such series and the
+address of its Corporate Trust Office.
+Section 611. Acceptance of Appointment by Successor.
+In case of the appointment hereunder of a successor Trustee with respect to all Securities, every such successor Trustee so appointed
+shall execute, acknowledge and deliver to the Company and to the retiring Trustee a written instrument accepting such appointment, and
+thereupon the resignation or removal of the retiring Trustee shall become effective and such successor Trustee, without any further act, deed
+or conveyance, shall become vested with all the rights, powers, trusts and duties of the retiring Trustee, but, on the request of the Company or
+the successor Trustee, such retiring Trustee shall, upon payment of its charges, execute and deliver a written instrument transferring to such
+successor Trustee all the rights, powers and trusts of the retiring Trustee and shall duly assign, transfer and deliver to such successor Trustee
+all property and money held by such retiring Trustee hereunder.
+In case of the appointment hereunder of a successor Trustee with respect to the Securities of one or more (but not all) series, the
+Company, the retiring Trustee and each successor Trustee with respect to the Securities of one or more series shall execute and deliver an
+indenture supplemental hereto wherein each successor Trustee shall accept such appointment and which (1) shall contain such provisions as
+shall be necessary or desirable to transfer and confirm to, and to vest in, each successor Trustee all the rights, powers, trusts and duties of
+the retiring Trustee with respect to the Securities of that or those series to which the appointment of such successor Trustee relates, (2) if the
+retiring Trustee is not retiring with respect to all Securities, shall contain such provisions as shall be deemed necessary or desirable to confirm
+that all the rights, powers, trusts and duties of the retiring Trustee with respect to the Securities of that or those series as to which the retiring
+Trustee is not retiring shall continue to be vested in the retiring Trustee, and (3) shall add to or change any of the provisions of this Indenture
+as shall be necessary to provide for or facilitate the administration of the trusts hereunder by more than one Trustee, it being understood that
+nothing herein or in such supplemental indenture shall constitute such Trustees co-trustees of the same trust and that each such Trustee shall
+be trustee of a trust or trusts hereunder separate and apart from any trust or trusts hereunder administered by any other such Trustee; and
+upon the execution and delivery of such supplemental indenture the resignation or removal of the retiring Trustee shall become effective to
+the extent provided therein and each such successor Trustee, without any further act, deed or conveyance, shall become vested with all the
+rights, powers, trusts and duties of the retiring Trustee with respect to the Securities of that or those series to which the appointment of such
+successor Trustee relates; but, on request of the Company or any successor Trustee, such retiring Trustee shall duly assign, transfer and
+deliver to such successor Trustee all property and money held by such retiring Trustee hereunder with respect to the Securities of that or
+those series to which the appointment of such successor Trustee relates.
+Upon request of any such successor Trustee, the Company shall execute any and all instruments for more fully and certainly vesting in
+and confirming to such successor Trustee all such rights, powers and trusts referred to in the first or second preceding paragraph, as the case
+may be.
+No successor Trustee shall accept its appointment unless at the time of such acceptance such successor Trustee shall be qualified and
+eligible under this Article VI.
+Section 612. Merger, Conversion, Consolidation or Succession to Business.
+Any corporation into which the Trustee may be merged or converted or with which it may be consolidated, or any corporation resulting
+from any merger, conversion or consolidation to which the Trustee shall be a party, or any corporation succeeding to all or substantially all the
+corporate trust business of the Trustee, shall be the successor of the Trustee hereunder; provided that such corporation shall be otherwise
+qualified and eligible under this Article VI, without the execution or filing of any paper or any further act on the part of any of the parties hereto.
+In case any Securities shall have been authenticated, but not delivered, by the Trustee then in office, any successor by merger, conversion,
+consolidation or sale to such authenticating Trustee may adopt such authentication and deliver the Securities so authenticated with the same
+effect as if such successor Trustee had itself authenticated such Securities; and in case at that time any Securities shall not have been
+authenticated, any successor to the Trustee may authenticate such Securities either in the name of any predecessor hereunder or in the
+name of the successor to the Trustee; and in all such cases such certificates shall have the full force which it is anywhere in the Securities or
+in this Indenture provided that the certificate of the Trustee shall have.
+30
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 35/51

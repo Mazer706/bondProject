@@ -1,0 +1,34 @@
+6/3/25, 12:26 PM EX-4.1
+The definitive Securities shall be printed, lithographed or engraved or may be produced in any other manner, all as determined by the
+Officer (or any Person designated in writing by an Officer of the Company as authorized to execute and deliver the Securities) executing such
+Securities, as evidenced by his or her execution of such Securities.
+Section 202. Form of Legend for Global Securities.
+Unless otherwise specified as contemplated by Section 301 for the Securities evidenced thereby or as required by Applicable
+Procedures, every Global Security authenticated and delivered hereunder shall bear a legend in substantially the following form:
+[Insert, if applicable — UNLESS THIS NOTE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY
+TRUST COMPANY, A NEW YORK CORPORATION (“DTC”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER,
+EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER
+NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO
+SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER
+USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER
+HEREOF, CEDE & CO., HAS AN INTEREST HEREIN.
+TRANSFERS OF THIS GLOBAL SECURITY SHALL BE LIMITED TO TRANSFERS IN WHOLE, BUT NOT IN PART, TO NOMINEES
+OF DTC OR TO A SUCCESSOR THEREOF OR SUCH SUCCESSOR’S NOMINEE AND TRANSFERS OF PORTIONS OF THIS GLOBAL
+SECURITY SHALL BE LIMITED TO TRANSFERS MADE IN ACCORDANCE WITH THE RESTRICTIONS SET FORTH IN THE INDENTURE
+REFERRED TO ON THE REVERSE HEREOF.]
+[Insert, if applicable — THIS SECURITY IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO
+HEREIN AND IS REGISTERED IN THE NAME OF A DEPOSITARY OR A NOMINEE THEREOF. THIS SECURITY MAY NOT BE
+EXCHANGED IN WHOLE OR IN PART FOR A SECURITY REGISTERED, AND NO TRANSFER OF THIS SECURITY IN WHOLE OR IN
+PART MAY BE REGISTERED, IN THE NAME OF ANY PERSON OTHER THAN SUCH DEPOSITARY OR A NOMINEE THEREOF, EXCEPT
+IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE INDENTURE.]
+Section 203. Form of Trustee’s Certificate of Authentication.
+The Trustee’s certificates of authentication shall be in substantially the following form:
+This is one of the Securities of the series designated therein referred to in the within-mentioned Indenture.
+Dated:
+The Bank of New York Mellon Trust
+Company, N.A.,
+as Trustee
+By:
+Authorized Signatory
+11
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 16/51

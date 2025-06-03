@@ -1,0 +1,39 @@
+6/3/25, 12:26 PM EX-4.1
+“Redemption Date” means, when used with respect to any Security to be redeemed, the date fixed for such redemption by or pursuant
+to this Indenture.
+“Redemption Price” means, when used with respect to any Security to be redeemed, the price at which it is to be redeemed pursuant to
+this Indenture.
+“Regular Record Date” means, for the interest payable on any Interest Payment Date on the Securities of any series, the date specified
+for that purpose as contemplated by Section 301.
+“Repayment Date” means, with used with respect to a Security to be repaid at the option of a Holder, the date fixed for such repayment
+by or pursuant to this Indenture.
+“Responsible Officer” means, when used with respect to the Trustee, any officer within the corporate trust department of the Trustee,
+including any vice president, or any other officer associated with the corporate trust department of the Trustee customarily performing
+functions similar to those performed by any of the above designated officers who shall have direct responsibility for the administration of this
+Indenture and also means, with respect to a particular corporate trust matter, any other officer to whom such matter is referred because of
+such person’s knowledge of and familiarity with the particular subject.
+“Securities” has the meaning specified in the first recital of this Indenture and more particularly means any Securities authenticated and
+delivered under this Indenture.
+“Securities Act” means the U.S. Securities Act of 1933 and any statute successor thereto, in each case as amended from time to time.
+“Security Register” and “Security Registrar” have the respective meanings specified in Section 305.
+“Special Record Date” means, for the payment of any Defaulted Interest, a date fixed by the Trustee pursuant to Section 307.
+“Stated Maturity” means, when used with respect to any Security or any installment of principal thereof or interest thereon, the date
+specified in such Security as the fixed date on which the principal of such Security or such installment of principal or interest is due and
+payable.
+“Subsidiary” means a corporation more than 50% of the outstanding voting stock of which is owned, directly or indirectly, by the
+Company or by one or more other Subsidiaries, or by the Company and one or more other Subsidiaries. For purposes of this definition,
+“voting stock” means stock which ordinarily has voting power for the election of directors, whether at all times or only so long as no senior
+class of stock has such voting power by reason of any contingency.
+“Successor” has the meaning specified in Section 801.
+“Trust Indenture Act” means the U.S. Trust Indenture Act of 1939 as in force at the date as of which this Indenture was executed;
+provided, however, that in the event the Trust Indenture Act of 1939 is amended after such date, “Trust Indenture Act” means, to the extent
+required by any such amendment, the Trust Indenture Act of 1939 as so amended.
+“Trustee” means the Person named as the “Trustee” in the first paragraph of this Indenture until a successor Trustee shall have become
+such pursuant to the applicable provisions of this Indenture, and thereafter “Trustee” shall mean or include each Person who is then a Trustee
+hereunder, and if at any time there is more than one such Person, “Trustee” as used with respect to the Securities of any series shall mean
+the Trustee with respect to Securities of that series.
+“U.S. Government Obligation” has the meaning specified in Section 1304(1).
+“Vice President” means, when used with respect to the Company or the Trustee, any vice president, whether or not designated by a
+number or a word or words added before or after the title “vice president.”
+5
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 10/51

@@ -1,0 +1,44 @@
+6/3/25, 12:26 PM EX-4.1
+(2) In case an Event of Default with respect to any series of Securities has occurred and is continuing, the Trustee shall exercise such
+of the rights and powers vested in it by this Indenture with respect to the Securities of such series, and use the same degree of
+care and skill in their exercise, as a prudent person would exercise or use under the circumstances in the conduct of his or her
+own affairs.
+(3) No provision of this Indenture shall be construed to relieve the Trustee from liability for its own negligent action, its own negligent
+failure to act, or its own willful misconduct, except that:
+(A) this Section 601(3) shall not be construed to limit the effect of Section 601(1);
+(B) the Trustee shall not be liable for any error of judgment made in good faith by a Responsible Officer, unless it shall be
+proved that the Trustee was negligent in ascertaining the pertinent facts;
+(C) the Trustee shall not be liable with respect to any action taken or omitted to be taken by it in good faith in accordance with
+the direction of the Holders of a majority in aggregate principal amount of the Outstanding Securities of any series,
+determined as provided in Section 101, Section 104 and Section 511, relating to the time, method and place of conducting
+any proceeding for any remedy available to the Trustee, or exercising any trust or power conferred upon the Trustee, under
+this Indenture with respect to the Securities of such series; and
+(D) no provision of this Indenture shall require the Trustee to expend or risk its own funds or otherwise incur any financial
+liability in the performance of any of its duties hereunder, or in the exercise of any of its rights or powers, if it shall have
+reasonable grounds for believing that repayment of such funds or adequate indemnity against such risk or liability is not
+reasonably assured to it.
+(4) Whether or not therein expressly so provided, every provision of this Indenture relating to the conduct or affecting the liability of or
+affording protection to the Trustee shall be subject to the provisions of this Section 601.
+Section 602. Notice of Defaults.
+If a Default or an Event of Default occurs with respect to Securities of any series and is continuing, the Trustee shall mail to each Holder
+of Securities of such series notice of the Default within 90 days after written notice of it is received by a Responsible Officer of the Trustee.
+Except in the case of a Default in payment of principal of or interest on any Security, the Trustee may withhold the notice if and so long as a
+committee of its Responsible Officers in good faith determines that withholding the notice is not opposed to the interests of Holders of
+Securities of such series.
+Section 603. Certain Rights of Trustee.
+Subject to the provisions of Section 601:
+(1) the Trustee may conclusively rely and shall be fully protected in acting or refraining from acting upon any resolution, certificate,
+statement, instrument, opinion, report, notice, request, direction, consent, order, bond, debenture, note, other evidence of
+indebtedness or other paper or document believed by it to be genuine and to have been signed or presented by the proper party
+or parties;
+(2) if so requested by the Trustee, any request or direction of the Company mentioned herein shall be sufficiently evidenced by a
+Company Request or Company Order, and any resolution of the Board of Directors shall be sufficiently evidenced by a Board
+Resolution;
+(3) whenever in the administration of this Indenture the Trustee shall deem it desirable that a matter be proved or established prior to
+taking, suffering or omitting any action hereunder, the Trustee (unless other evidence be herein specifically prescribed) may, in the
+absence of bad faith on its part, conclusively rely upon an Officer’s Certificate;
+(4) the Trustee may consult with counsel of its selection and the advice of such counsel or any Opinion of Counsel shall be full and
+complete authorization and protection in respect of any action taken, suffered or omitted by it hereunder in good faith and in
+reliance thereon;
+26
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 31/51

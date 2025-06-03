@@ -1,0 +1,43 @@
+6/3/25, 12:26 PM EX-4.1
+(B) all such Securities of such series not theretofore delivered to the Trustee for cancellation
+(i) have become due and payable, or
+(ii) will become due and payable at their Stated Maturity within one year of the date of deposit, or
+(iii) are to be called for redemption within one year under arrangements satisfactory to the Trustee for the giving of notice
+of redemption by the Trustee in the name, and at the expense, of the Company, and the Company, in the case of (i),
+(ii) or (iii) above, has deposited or caused to be deposited with the Trustee as trust funds in trust for such purpose
+money in an amount sufficient to pay and discharge the entire indebtedness on such Securities not theretofore
+delivered to the Trustee for cancellation, for principal and premium, if any, and interest to the date of such deposit (in
+the case of Securities which have become due and payable) or to the Stated Maturity or Redemption Date, as the
+case may be;
+(2) the Company has paid or caused to be paid all other sums payable hereunder by the Company; and
+(3) the Company has delivered to the Trustee an Officer’s Certificate and an Opinion of Counsel, each stating that all conditions
+precedent herein provided for relating to the satisfaction and discharge of this Indenture as to such series have been complied
+with.
+Notwithstanding the satisfaction and discharge of this Indenture, the obligations of the Company to the Trustee under Section 607 and, if
+money shall have been deposited with the Trustee pursuant to subclause (B) of clause (1) of this Section 401, the obligations of the Trustee
+under Section 402 and the last paragraph of Section 1003 shall survive such satisfaction and discharge.
+Section 402. Application of Trust Money.
+Subject to the provisions of the last paragraph of Section 1003, all money deposited with the Trustee pursuant to Section 401 shall be
+held in trust and applied by it, in accordance with the provisions of the applicable series of Securities and this Indenture, to the payment,
+either directly or through any Paying Agent (including the Company acting as its own Paying Agent) as the Trustee may determine, to the
+Persons entitled thereto, of the principal and premium, if any, and interest for whose payment such money has been deposited with the
+Trustee. All money deposited with the Trustee pursuant to Section 401 (and held by it or any Paying Agent) for the payment of Securities
+subsequently converted into other property shall be returned to the Company upon Company Request. The Company may direct by a
+Company Order the investment of any money deposited with the Trustee pursuant to Section 401, without distinction between principal and
+income, in (1) United States Treasury securities with a maturity of one year or less or (2) a money market fund that invests solely in short-term
+United States Treasury securities (including money market funds for which the Trustee or an affiliate of the Trustee serves as investment
+advisor, administrator, shareholder, servicing agent and/or custodian or sub-custodian, notwithstanding that (a) the Trustee charges and
+collects fees and expenses from such funds for services rendered and (b) the Trustee charges and collects fees and expenses for services
+rendered pursuant to this Indenture at any time) and from time to time the Company may direct the reinvestment of all or a portion of such
+money in other securities or funds meeting the criteria specified in clause (1) or (2) of this Section 402.
+ARTICLE V
+REMEDIES
+Section 501. Events of Default.
+Except as may be otherwise provided pursuant to Section 301 for Securities of any series, an “Event of Default” means, whenever used
+herein or in a Security issued hereunder with respect to Securities of any series, any one of the following events (whatever the reason for
+such Event of Default and whether it shall be voluntary or involuntary or be effected by operation of law or pursuant to any judgment, decree
+or order of any court or any order, rule or regulation of any administrative or governmental body):
+(1) the Company defaults in the payment of any installment of interest on any Security of such series for 30 days after becoming
+due;
+20
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 25/51

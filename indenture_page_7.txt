@@ -1,0 +1,36 @@
+6/3/25, 12:26 PM EX-4.1
+“Act,” when used with respect to any Holder, has the meaning specified in Section 104.
+“Affiliate” means, with respect to any specified Person, any other Person directly or indirectly controlling or controlled by or under direct
+or indirect common control with such specified Person. For purposes of this definition, “control” when used with respect to any specified
+Person means the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership of voting
+securities, by contract or otherwise; and the terms “controlling” and “controlled” have meanings correlative to the foregoing.
+“Applicable Procedures” means, with respect to a Depositary, as to any matter at any time, the policies and procedures of such
+Depositary, if any, that are applicable to such matter at such time.
+“Authenticating Agent” means any Person authorized by the Trustee pursuant to Section 614 to act on behalf of the Trustee to
+authenticate Securities of one or more series.
+“Bankruptcy Law” has the meaning specified in Section 501.
+“Board of Directors” means either the Board of Directors of the Company or any duly authorized committee of that Board of Directors.
+“Board Resolution” means a copy of one or more resolutions certified by the Secretary or an Assistant Secretary of the Company to
+have been duly adopted by the Board of Directors and to be in full force and effect on the date of such certification and delivered to the
+Trustee.
+“Business Day” means, when used with respect to any Place of Payment, unless otherwise specified as contemplated by Section 301,
+any day, other than a Saturday or Sunday, which is not a day on which banking institutions are authorized or obligated by law or executive
+order to close in that Place of Payment.
+“Commission” means the U.S. Securities and Exchange Commission, from time to time constituted, created under the Exchange Act, or,
+if at any time after the execution of this Indenture such Commission is not existing and performing the duties now assigned to it under the
+Trust Indenture Act, then the body performing such duties at such time.
+“Company” means the Person named as the “Company” in the first paragraph of this Indenture until a successor Person shall have
+become such pursuant to the applicable provisions of this Indenture, and thereafter “Company” shall mean such successor Person.
+“Company Request” or “Company Order” means a written request or order signed in the name of the Company by an Officer of the
+Company (or any Person designated in writing by an Officer of the Company as authorized to execute and deliver Company Requests and
+Company Orders), and delivered to the Trustee.
+“Corporate Trust Office” means the principal office of the Trustee at which, at any particular time, its corporate trust business shall be
+conducted (which office is located as of the date of this Indenture at The Bank of New York Mellon Trust Company, N.A., 400 South Hope
+Street, Suite 500, Los Angeles, California 90071, Attention: Corporate Trust Unit, or at any other time at such other address as the Trustee
+may designate from time to time by notice to the Holders).
+“Covenant Defeasance” has the meaning specified in Section 1303.
+“Custodian” has the meaning specified in Section 501.
+“Default” means any event which is, or after notice or passage of time or both would be, an Event of Default.
+“Defaulted Interest” has the meaning specified in Section 307.
+2
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 7/51

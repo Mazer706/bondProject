@@ -1,0 +1,49 @@
+6/3/25, 12:26 PM EX-4.1
+Section 307. Payment of Interest; Interest Rights Preserved.
+Except as otherwise provided as contemplated by Section 301 with respect to any series of Securities, interest on any Security which is
+payable, and is punctually paid or duly provided for, on any Interest Payment Date shall be paid to the Person in whose name that Security (or
+one or more Predecessor Securities) is registered at the close of business on the Regular Record Date for such interest.
+Any interest on any Security of any series which is payable, but is not punctually paid or duly provided for, on any Interest Payment Date
+(herein called “Defaulted Interest”) shall forthwith cease to be payable to the Holder on the relevant Regular Record Date by virtue of having
+been such Holder, and such Defaulted Interest may be paid by the Company, at its election in each case, as provided in clause (1) or
+(2) below:
+(1) The Company may elect to make payment of any Defaulted Interest payable on Securities of a series to the Persons in whose
+names the Securities of such series (or their respective Predecessor Securities) are registered at the close of business on a
+Special Record Date for the payment of such Defaulted Interest, which shall be fixed in the following manner. The Company shall
+notify the Trustee in writing of the amount of Defaulted Interest proposed to be paid on each Security of such series and the date
+of the proposed payment, and at the same time the Company shall deposit with the Trustee an amount of money equal to the
+aggregate amount proposed to be paid in respect of such Defaulted Interest or shall make arrangements satisfactory to the
+Trustee for such deposit prior to the date of the proposed payment, such money when deposited to be held in trust for the benefit
+of the Persons entitled to such Defaulted Interest as in this clause provided. Thereupon the Trustee in consultation with the
+Company shall fix a Special Record Date for the payment of such Defaulted Interest which shall be not more than 15 days and not
+less than 10 days prior to the date of the proposed payment and not less than 10 days after the receipt by the Trustee of the notice
+of the proposed payment. The Trustee shall promptly notify the Company of such Special Record Date and, in the name and at the
+expense of the Company, shall cause notice of the proposed payment of such Defaulted Interest and the Special Record Date
+therefor to be given to each Holder of Securities of such series in the manner set forth in Section 106, not less than 10 days prior
+to such Special Record Date. Notice of the proposed payment of such Defaulted Interest and the Special Record Date therefor
+having been so mailed, such Defaulted Interest shall be paid to the Persons in whose names the Securities of such series (or their
+respective Predecessor Securities) are registered at the close of business on such Special Record Date and shall no longer be
+payable pursuant to the following clause (2).
+(2) The Company may make payment of any Defaulted Interest on the Securities of any series in any other lawful manner not
+inconsistent with the requirements of any securities exchange on which such Securities may be listed, and upon such notice as
+may be required by such exchange, if, after notice given by the Company to the Trustee of the proposed payment pursuant to this
+clause, such manner of payment shall be deemed practicable by the Trustee.
+Subject to the foregoing provisions of this Section 307, each Security delivered under this Indenture upon registration of transfer of or in
+exchange for or in lieu of any other Security shall carry the rights to interest accrued and unpaid, and to accrue, which were carried by such
+other Security.
+In the case of any Security which is converted after any Regular Record Date and on or prior to the next succeeding Interest Payment
+Date (other than any Security whose Maturity is prior to such Interest Payment Date), interest whose Stated Maturity is on such Interest
+Payment Date shall be payable on such Interest Payment Date notwithstanding such conversion, and such interest (whether or not punctually
+paid or made available for payment) shall be paid to the Person in whose name that Security (or one or more Predecessor Securities) is
+registered at the close of business on such Regular Record Date. Except as otherwise expressly provided in the immediately preceding
+sentence, in the case of any Security which is converted, interest whose Stated Maturity is after the date of conversion of such Security shall
+not be payable. Notwithstanding the foregoing, the terms of any Security that may be converted may provide that the provisions of this
+paragraph do not apply, or apply with such additions, changes or omissions as may be provided thereby, to such Security.
+Section 308. Persons Deemed Owners.
+Prior to due presentment of a Security for registration of transfer, the Company, the Trustee and any agent of the Company or the
+Trustee may treat the Person in whose name such Security is registered as the owner of such Security for the purpose of receiving payment
+of principal of and premium, if any, and, subject to Section 307, any interest on such Security and for all other purposes whatsoever, whether
+or not such Security be overdue, and neither the Company, the Trustee nor any agent of the Company or the Trustee shall be affected by
+notice to the contrary.
+18
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 23/51

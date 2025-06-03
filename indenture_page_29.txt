@@ -1,0 +1,32 @@
+6/3/25, 12:26 PM EX-4.1
+it being understood and intended that no one or more of such Holders shall have any right in any manner whatever by virtue of, or by availing
+of, any provision of this Indenture to affect, disturb or prejudice the rights of any other of such Holders, or to obtain or to seek to obtain priority
+or preference over any other of such Holders (it being understood that the Trustee does not have an affirmative duty to ascertain whether or
+not such actions are unduly prejudicial to such Holders) or to enforce any right under this Indenture, except in the manner herein provided and
+for the equal and ratable benefit of all of such Holders.
+Section 508. Unconditional Right of Holders to Receive Principal, Premium and Interest and to Convert Securities.
+Notwithstanding any other provision in this Indenture, the Holder of any Security shall have the right, which is absolute and
+unconditional, to receive payment of the principal of and premium, if any, and, subject to Section 307, interest on such Security on the
+respective Stated Maturities expressed in such Security (or, in the case of redemption or repayment, on the Redemption Date or date for
+repayment, as the case maybe, and, if the terms of such Security so provide, to convert such Security in accordance with its terms) and to
+institute suit for the enforcement of any such payment and, if applicable, any such right to convert, and such rights shall not be impaired
+without the consent of such Holder.
+Section 509. Rights and Remedies Cumulative.
+Except as otherwise provided with respect to the replacement or payment of mutilated, destroyed, lost or stolen Securities in the last
+paragraph of Section 306, no right or remedy herein conferred upon or reserved to the Trustee or to the Holders is intended to be exclusive of
+any other right or remedy, and every right and remedy shall, to the extent permitted by law, be cumulative and in addition to every other right
+and remedy given hereunder or now or hereafter existing at law or in equity or otherwise. The assertion or employment of any right or remedy
+hereunder, or otherwise, shall not prevent the concurrent assertion or employment of any other appropriate right or remedy.
+Section 510. Delay or Omission Not Waiver.
+No delay or omission of the Trustee or of any Holder of any Securities to exercise any right or remedy accruing upon any Event of
+Default shall impair any such right or remedy or constitute a waiver of any such Event of Default or an acquiescence therein. Every right and
+remedy given by this Article V or by law to the Trustee or to the Holders may be exercised from time to time, and as often as may be deemed
+expedient, by the Trustee or by the Holders, as the case may be.
+Section 511. Control by Holders.
+The Holders of not less than a majority in aggregate principal amount of the Outstanding Securities of any series shall have the right to
+direct the time, method and place of conducting any proceeding for any remedy available to the Trustee, or exercising any trust or power
+conferred on the Trustee, with respect to the Securities of such series; provided that
+(1) such direction shall not be in conflict with any rule of law or with this Indenture, and
+(2) the Trustee may take any other action deemed proper by the Trustee which is not inconsistent with such direction.
+24
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 29/51

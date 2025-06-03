@@ -1,0 +1,48 @@
+6/3/25, 12:26 PM EX-4.1
+The fact and date of the execution by any Person of any such instrument or writing may be proved in any manner which the Trustee
+reasonably deems sufficient. Where such execution is by a Person acting in a capacity other than such Person’s individual capacity, such
+certificate or affidavit shall also constitute sufficient proof of such Person’s authority. The fact and date of the execution of any such instrument
+or writing, or the authority of the Person executing the same, may also be proved in any other manner which the Trustee deems sufficient.
+The ownership of Securities shall be proved by the Security Register.
+Any request, demand, authorization, direction, notice, consent, waiver or other Act of the Holder of any Security shall bind every future
+Holder of the same Security and the Holder of every Security issued upon the registration of transfer thereof or in exchange therefor or in lieu
+thereof in respect of anything done, omitted or suffered to be done by the Trustee or the Company in reliance thereon, whether or not notation
+of such action is made upon such Security.
+The Company may set any day as a record date for the purpose of determining the Holders of Outstanding Securities of any series
+entitled to give, make or take any request, demand, authorization, direction, notice, consent, waiver or other action provided or permitted by
+this Indenture to be given, made or taken by Holders of Securities of such series; provided that the Company may not set a record date for,
+and the provisions of this paragraph shall not apply with respect to, the giving or making of any notice, declaration, request or direction
+referred to in the next paragraph. If any record date is set pursuant to this paragraph, the Holders of Outstanding Securities of the relevant
+series on such record date, and no other Holders, shall be entitled to take the relevant action, whether or not such Holders remain Holders
+after such record date; provided that no such action shall be effective hereunder unless taken on or prior to the applicable Expiration Date by
+Holders of the requisite principal amount of Outstanding Securities of such series on such record date. Nothing in this paragraph shall be
+construed to prevent the Company from setting a new record date for any action for which a record date has previously been set pursuant to
+this paragraph (whereupon the record date previously set shall automatically and with no action by any Person be cancelled and of no effect),
+and nothing in this paragraph shall be construed to render ineffective any action taken by Holders of the requisite principal amount of
+Outstanding Securities of the relevant series on the date such action is taken. Promptly after any record date is set pursuant to this
+paragraph, the Company, at its own expense, shall cause notice of such record date, the proposed action by Holders and the applicable
+Expiration Date to be given to the Trustee in writing and to each Holder of Securities of the relevant series in the manner set forth in Sections
+105 and 106.
+The Trustee may set any day as a record date for the purpose of determining the Holders of Outstanding Securities of any series
+entitled to join in the giving or making of (i) any Notice of Default, (ii) any declaration of acceleration referred to in Section 502, (iii) any request
+to institute proceedings referred to in Section 507(2) or (iv) any direction referred to in Section 511, in each case with respect to Securities of
+such series. If any record date is set pursuant to this paragraph, the Holders of Outstanding Securities of such series on such record date,
+and no other Holders, shall be entitled to join in such notice, declaration, request or direction, whether or not such Holders remain Holders
+after such record date; provided that no such action shall be effective hereunder unless taken on or prior to the applicable Expiration Date by
+Holders of the requisite principal amount of Outstanding Securities of such series on such record date. Nothing in this paragraph shall be
+construed to prevent the Trustee from setting a new record date for any action for which a record date has previously been set pursuant to
+this paragraph (whereupon the record date previously set shall automatically and with no action by any Person be cancelled and of no effect),
+and nothing in this paragraph shall be construed to render ineffective any action taken by Holders of the requisite principal amount of
+Outstanding Securities of the relevant series on the date such action is taken. Promptly after any record date is set pursuant to this
+paragraph, the Trustee, at the Company’s expense, shall cause notice of such record date, the proposed action by Holders and the applicable
+Expiration Date to be given to the Company in writing and to each Holder of Securities of the relevant series in the manner set forth in
+Sections 105 and 106.
+With respect to any record date set pursuant to this Section 104, the party hereto which sets such record dates may designate any day
+as the “Expiration Date” and from time to time may change the Expiration Date to any earlier or later day; provided that no such change shall
+be effective unless notice of the proposed new Expiration Date is given to the other party hereto in writing, and to each Holder of Securities of
+the relevant series in the manner set forth in Section 106, on or prior to the existing Expiration Date. If an Expiration Date is not designated
+with respect to any record date set pursuant to this Section 104, the party hereto which set such record date shall be deemed to have initially
+designated the 180th day after such record date as the Expiration Date with respect thereto, subject to its right to change the Expiration Date
+as provided in this paragraph.
+7
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 12/51

@@ -1,0 +1,46 @@
+6/3/25, 12:26 PM EX-4.1
+Section 903. Execution of Supplemental Indentures.
+In executing, or accepting the additional trusts created by, any supplemental indenture permitted by this Article IX or the modifications
+thereby of the trusts created by this Indenture, the Trustee shall be provided with, and, subject to Section 601, shall be fully protected in
+relying upon, an Officer’s Certificate and an Opinion of Counsel stating that the execution of such supplemental indenture is authorized or
+permitted by this Indenture and that all conditions precedent in this Indenture to the execution of such supplemental indenture, if any, have
+been complied with. The Trustee may, but shall not be obligated to, enter into any such supplemental indenture which affects the Trustee’s
+own rights, duties or immunities under this Indenture or otherwise.
+Section 904. Effect of Supplemental Indentures.
+Upon the execution of any supplemental indenture under this Article IX, this Indenture shall be modified in accordance therewith, and
+such supplemental indenture shall form a part of this Indenture for all purposes; and every Holder of Securities theretofore or thereafter
+authenticated and delivered hereunder shall be bound thereby.
+Section 905. Conformity with Trust Indenture Act.
+Every supplemental indenture executed pursuant to this Article IX shall conform to the requirements of the Trust Indenture Act.
+Section 906. Reference in Securities to Supplemental Indentures.
+Securities of any series authenticated and delivered after the execution of any supplemental indenture pursuant to this Article IX may,
+and shall if required by the Trustee, bear a notation in form approved by the Trustee as to any matter provided for in such supplemental
+indenture. If the Company shall so determine, new Securities of any series so modified as to conform, in the opinion of the Trustee and the
+Company, to any such supplemental indenture may be prepared and executed by the Company and authenticated and delivered by the
+Trustee in exchange for Outstanding Securities of such series.
+ARTICLE X
+COVENANTS
+Section 1001. Payment of Principal, Premium, if any, and Interest.
+The Company covenants and agrees for the benefit of each series of Securities that it will duly and punctually pay the principal of and
+premium, if any, and interest on the Securities of such series in accordance with the terms of the Securities and this Indenture. Principal and
+interest shall be considered paid on the date due if, on or before 11:00 a.m. (New York City time) on such date, the Trustee or the Paying
+Agent (or, if the Company or any of its Subsidiaries is the Paying Agent, the segregated account or separate trust fund maintained by the
+Company or such Subsidiary pursuant to Section 1003) holds in accordance with this Indenture money sufficient to pay all principal and
+interest then due.
+The Company shall pay interest on overdue principal at the rate specified therefor in the Securities, and it shall pay interest on overdue
+installments of interest at the same rate to the extent lawful as provided in Section 307.
+Notwithstanding anything to the contrary contained in this Indenture, the Company or the Paying Agent may, to the extent it is required
+to do so by law, deduct or withhold income or other similar taxes imposed by the United States of America or other domestic or foreign taxing
+authorities from principal or interest payments hereunder.
+Section 1002. Maintenance of Office or Agency.
+The Company will maintain in each Place of Payment for any series of Securities an office or agency where Securities of such series
+may be presented or surrendered for payment, where Securities of such series may be surrendered for registration of transfer or exchange,
+where Securities may be surrendered for conversion, and where notices and demands to or upon the Company in respect of the Securities of
+such series and this Indenture may be served. The Company will give prompt written notice to the Trustee of the location, and any change in
+the location, of such office or agency. If at any time the Company shall fail to maintain any such required office or agency or shall fail to furnish
+the Trustee with the address thereof, such presentations, surrenders, notices and demands may be made or served at the Corporate Trust
+Office of the Trustee; and such required office or agency in New York, New York shall be at an office of the Trustee located at 101 Barclay
+Street, Floor 4W, New York, New York 10286, Attention: Corporate Trust Administration. The Company hereby appoints the Trustee as its
+agent to receive all such presentations, surrenders, notices and demands.
+36
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 41/51

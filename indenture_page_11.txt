@@ -1,0 +1,46 @@
+6/3/25, 12:26 PM EX-4.1
+Section 102. Compliance Certificates and Opinions.
+Upon any application or request by the Company to the Trustee to take any action under any provision of this Indenture, the Company
+shall furnish to the Trustee an Officer’s Certificate stating that all conditions precedent, if any, provided for in this Indenture relating to the
+proposed action have been complied with and an Opinion of Counsel stating that in the opinion of such counsel all such conditions precedent,
+if any, have been complied with, except that in the case of any such application or request as to which the furnishing of such documents is
+specifically required by any provision of this Indenture relating to such particular application or request, no additional certificate or opinion
+need be furnished by the Company.
+Every certificate or opinion with respect to compliance with a condition or covenant provided for in this Indenture (except for certificates
+provided for in Section 1004) shall include:
+(1) a statement that each individual signing such certificate or opinion has read such covenant or condition and the definitions herein
+relating thereto;
+(2) a brief statement as to the nature and scope of the examination or investigation upon which the statements or opinions contained
+in such certificate or opinion are based;
+(3) a statement that, in the opinion of each such individual, he or she has made such examination or investigation as is necessary to
+enable him or her to express an informed opinion as to whether or not such covenant or condition has been complied with; and
+(4) a statement as to whether, in the opinion of each such individual, such condition or covenant has been complied with.
+Section 103. Form of Documents Delivered to Trustee.
+In any case where several matters are required to be certified by, or covered by an opinion of, any specified Person, it is not necessary
+that all such matters be certified by, or covered by the opinion of, only one such Person, or that they be so certified or covered by only one
+document, but one such Person may certify or give an opinion with respect to some matters and one or more other such Persons as to other
+matters, and any such Person may certify or give an opinion as to such matters in one or several documents.
+Any certificate or opinion of an Officer (or any Person designated in writing by an Officer of the Company as authorized to execute and
+deliver the Securities) may be based, insofar as it relates to legal matters, upon a certificate or opinion of, or representations by, counsel,
+unless such Officer (or any such Person designated in writing by an Officer of the Company as authorized to execute and deliver the
+Securities) knows, or in the exercise of reasonable care should know, that the certificate or opinion or representations with respect to the
+matters upon which such Officer’s (or such Person’s) certificate or opinion is based are erroneous. Any such certificate or Opinion of Counsel
+may be based, insofar as it relates to factual matters, upon a certificate or opinion of, or representations by, an Officer or Officers of the
+Company (or any Person or Persons designated in writing by an Officer of the Company as authorized to execute and deliver the Securities)
+stating that the information with respect to such factual matters is in the possession of the Company, unless such counsel knows, or in the
+exercise of reasonable care should know, that the certificate or opinion or representations with respect to such matters are erroneous.
+Counsel delivering an Opinion of Counsel may also rely as to factual matters on certificates of governmental or other officials customary for
+opinions of the type required.
+Where any Person is required to make, give or execute two or more applications, requests, consents, certificates, statements, opinions
+or other instruments under this Indenture, they may, but need not, be consolidated and form one instrument.
+Section 104. Acts of Holders; Record Dates.
+Any request, demand, authorization, direction, notice, consent, waiver or other action provided or permitted by this Indenture to be
+given, made or taken by Holders may be embodied in and evidenced by one or more instruments of substantially similar tenor signed by such
+Holders in person or by an agent duly appointed in writing; and, except as herein otherwise expressly provided, such action shall become
+effective when such instrument or instruments are delivered to the Trustee and, where it is hereby expressly required, to the Company. Such
+instrument or instruments (and the action embodied therein and evidenced thereby) are herein sometimes referred to as the “Act” of the
+Holders signing such instrument or instruments. Proof of execution of any such instrument or of a writing appointing any such agent shall be
+sufficient for any purpose of this Indenture and, subject to Section 601, conclusive in favor of the Trustee and the Company, if made in the
+manner provided in this Section 104.
+6
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 11/51

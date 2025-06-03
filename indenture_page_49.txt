@@ -1,0 +1,37 @@
+6/3/25, 12:26 PM EX-4.1
+The Company shall pay and indemnify the Trustee against any tax, fee or other charge imposed on or assessed against the U.S.
+Government Obligations deposited pursuant to Section 1304 or the principal and interest received in respect thereof other than any such tax,
+fee or other charge which by law is for the account of the Holders of Outstanding Securities; provided that the Trustee shall be entitled to
+charge any such tax, fee or other charge to such Holder’s account.
+Anything in this Article XIII to the contrary notwithstanding, the Trustee shall deliver or pay to the Company from time to time upon
+Company Request any money or U.S. Government Obligations held by it as provided in Section 1304 with respect to any Securities which are
+in excess of the amount thereof which would then be required to be deposited to effect the Defeasance or Covenant Defeasance, as the case
+may be, with respect to such Securities.
+Section 1306. Reinstatement.
+If the Trustee or the Paying Agent is unable to apply any money in accordance with this Article XIII with respect to any Securities by
+reason of any order or judgment of any court or governmental authority enjoining, restraining or otherwise prohibiting such application, then
+the obligations under this Indenture and such Securities from which the Company has been discharged or released pursuant to Section 1302
+or Section 1303 shall be revived and reinstated as though no deposit had occurred pursuant to this Article XIII with respect to such Securities,
+until such time as the Trustee or Paying Agent is permitted to apply all money held in trust pursuant to Section 1305 with respect to such
+Securities in accordance with this Article XIII; provided, however, that (a) if the Company makes any payment of principal of or premium, if
+any, or interest on any such Security following such reinstatement of its obligations, the Company shall be subrogated to the rights, if any, of
+the Holders of such Securities to receive such payment from the money so held in trust and (b) unless otherwise required by any legal
+proceeding or any order or judgment of any court or governmental authority, the Trustee or Paying Agent shall return all such money and U.S.
+Government Obligations to the Company promptly after receiving a written request therefor at any time, if such reinstatement of the
+Company’s obligations has occurred and continues to be in effect.
+ARTICLE XIV
+REPAYMENT AT THE OPTION OF HOLDERS
+Section 1401. Applicability of Article.
+Repayment of Securities of any series before their Stated Maturity at the option of Holders thereof shall be made in accordance with the
+terms of such Securities and (except as otherwise specified as contemplated by Section 301 for Securities of any series) in accordance with
+this Article XIV.
+Section 1402. Repayment of Securities.
+Securities of any series subject to repayment in whole or in part at the option of the Holders thereof will, unless otherwise provided in the
+terms of such Securities, be repaid at a price equal to the principal amount thereof and premium, if any, thereon, together with interest thereon
+accrued to the Repayment Date specified in or pursuant to the terms of such Securities. The Company covenants that on or before the
+Repayment Date it will deposit with the Trustee or with a Paying Agent (or, if the Company is acting as its own Paying Agent, segregate and
+hold in trust as provided in Section 1003) an amount of money sufficient to pay the principal (or, if so provided by the terms of the Securities of
+any series, a percentage of the principal) of, the premium, if any, and (except if the Repayment Date shall be an Interest Payment Date)
+accrued interest on, all the Securities or portions thereof, as the case may be, to be repaid on such date.
+44
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 49/51

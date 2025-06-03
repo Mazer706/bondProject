@@ -1,0 +1,39 @@
+6/3/25, 12:26 PM EX-4.1
+Section 605. May Hold Securities.
+The Trustee, any Paying Agent, any Security Registrar or any other agent of the Company, in its individual or any other capacity, may
+become the owner or pledgee of Securities and, subject to Section 608 and Section 613, may otherwise deal with the Company with the same
+rights it would have if it were not Trustee, Paying Agent, Security Registrar or such other agent.
+Section 606. Money Held in Trust.
+Money held by the Trustee in trust hereunder shall, until used or applied as herein provided, be held in trust for the purposes for which
+they were received, but need not be segregated from other funds except to the extent required by law. The Trustee shall be under no liability
+for interest on any money received by it hereunder except as otherwise agreed with the Company.
+Section 607. Compensation and Reimbursement.
+The Company agrees
+(1) to pay to the Trustee from time to time such reasonable compensation as shall be agreed to in writing between the Company and
+the Trustee for all services rendered by it hereunder (which compensation shall not be limited by any provision of law in regard to
+the compensation of a trustee of an express trust);
+(2) except as otherwise expressly provided herein, to reimburse the Trustee upon its request for all reasonable expenses,
+disbursements and advances incurred or made by the Trustee in accordance with any provision of this Indenture (including the
+reasonable compensation and the reasonable expenses and disbursements of its agents and counsel), except any such expense,
+disbursement or advance as shall have been caused by its own negligence or willful misconduct, and the Trustee shall provide the
+Company reasonable notice of any expenditure not in the ordinary course of business; and
+(3) to indemnify the Trustee for, and to hold it harmless against, any loss, liability or expense incurred without negligence or willful
+misconduct on its part, arising out of or in connection with the acceptance or administration of the trust or trusts hereunder,
+including the reasonable costs and expenses of defending itself against any claim or liability in connection with the exercise or
+performance of any of its powers or duties hereunder.
+The Trustee shall notify the Company promptly of any claim of which a Responsible Officer has received written notice for which it may
+seek indemnity.
+When the Trustee incurs expenses or renders services in connection with an Event of Default specified in Section 501(4) or (5), the
+expenses (including the reasonable charges and expenses of its counsel) and the compensation for the services are intended to constitute
+expenses of administration under any applicable federal or state bankruptcy, insolvency or other similar law.
+The Trustee shall have a lien prior to the Securities as to all property and funds held by it hereunder for any amount owing it or any
+predecessor Trustee pursuant to this Section 607, except with respect to funds held in trust for the benefit of the Holders of Securities.
+The provisions of this Section 607 shall survive the termination of this Indenture and the resignation or removal of the Trustee.
+Section 608. Conflicting Interests.
+If the Trustee has or shall acquire a conflicting interest within the meaning of the Trust Indenture Act, the Trustee shall either eliminate
+such interest or resign, to the extent and in the manner provided by, and subject to the provisions of, the Trust Indenture Act and this
+Indenture.
+To the extent permitted by the Trust Indenture Act, the Trustee shall not be deemed to have a conflicting interest by virtue of being a
+trustee under this Indenture with respect to Securities of more than one series.
+28
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 33/51

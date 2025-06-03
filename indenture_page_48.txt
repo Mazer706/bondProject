@@ -1,0 +1,36 @@
+6/3/25, 12:26 PM EX-4.1
+(2) In the event of an election to have Section 1302 apply to any Securities or any series of Securities, as the case may be, the
+Company shall have delivered to the Trustee an Opinion of Counsel stating that (A) the Company has received from, or there has
+been published by, the Internal Revenue Service a ruling or (B) since the date of this Indenture, there has been a change in the
+applicable Federal income tax law, in either case (A) or (B) to the effect that, and based thereon such opinion shall confirm that,
+the Holders of such Securities will not recognize gain or loss for Federal income tax purposes as a result of the deposit,
+Defeasance and discharge to be effected with respect to such Securities and will be subject to Federal income tax on the same
+amount, in the same manner and at the same times as would be the case if such deposit, Defeasance and discharge were not to
+occur.
+(3) In the event of an election to have Section 1303 apply to any Securities or any series of Securities, as the case may be, the
+Company shall have delivered to the Trustee an Opinion of Counsel to the effect that the Holders of such Securities will not
+recognize gain or loss for Federal income tax purposes as a result of the deposit and Covenant Defeasance to be effected with
+respect to such Securities and will be subject to Federal income tax on the same amount, in the same manner and at the same
+times as would be the case if such deposit and Covenant Defeasance were not to occur.
+(4) The Company shall have delivered to the Trustee an Officer’s Certificate to the effect that neither such Securities nor any other
+Securities of the same series, if then listed on any securities exchange, will be delisted as a result of such deposit.
+(5) No Default or Event of Default with respect to such Securities or any other Securities shall have occurred and be continuing at the
+time of such deposit or, insofar as Sections 501(4) or 501(5) are concerned, at any time on or prior to the 90th day after the date of
+such deposit (it being understood that this condition shall not be deemed satisfied until after such 90th day).
+(6) Such Defeasance or Covenant Defeasance shall not result in a breach or violation of, or constitute a default under, any other
+material agreement or instrument to which the Company is a party or by which it is bound.
+(7) The Company shall have delivered to the Trustee an Officer’s Certificate and an Opinion of Counsel, each stating that all
+conditions precedent with respect to such Defeasance or Covenant Defeasance have been complied with (in each case, subject to
+the satisfaction of the condition in clause (5)).
+Before or after a deposit, the Company may make arrangements satisfactory to the Trustee for the redemption of Securities at a future
+date in accordance with Article XI.
+Section 1305. Deposited Money and U.S. Government Obligations to Be Held in Trust; Miscellaneous Provisions.
+Subject to the provisions of the last paragraph of Section 1003, all money and U.S. Government Obligations (including the proceeds
+thereof) deposited with the Trustee or other qualifying trustee (solely for purposes of this Section 1305 and Section 1306, the Trustee and any
+such other trustee are referred to collectively as the “Trustee”) pursuant to Section 1304 in respect of any Securities shall be held in trust and
+applied by the Trustee, in accordance with the provisions of such Securities and this Indenture, to the payment, either directly or through any
+such Paying Agent (including the Company acting as its own Paying Agent) as the Trustee may determine, to the Holders of such Securities,
+of all sums due and to become due thereon in respect of principal and premium, if any, and interest, but money so held in trust need not be
+segregated from other funds except to the extent required by law.
+43
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 48/51

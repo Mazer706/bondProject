@@ -1,0 +1,46 @@
+6/3/25, 12:26 PM EX-4.1
+Section 512. Waiver of Past Defaults.
+The Holders of not less than a majority in aggregate principal amount of the Outstanding Securities of any series may on behalf of the
+Holders of all the Securities of such series waive any past default hereunder with respect to such series and its consequences, except a
+default
+(1) in the payment of the principal of or premium, if any, or interest on any Security of such series, or
+(2) in respect of a covenant or provision hereof which under Article IX cannot be modified or amended without the consent of the
+Holder of each Outstanding Security of such series affected.
+Upon any such waiver, such default shall cease to exist, and any Event of Default arising therefrom shall be deemed to have been
+cured, for every purpose of this Indenture, but no such waiver shall extend to any subsequent or other default or impair any right consequent
+thereon.
+Section 513. Undertaking for Costs.
+In any suit for the enforcement of any right or remedy under this Indenture, or in any suit against the Trustee for any action taken,
+suffered or omitted by it as Trustee, a court may require any party litigant in such suit to file an undertaking to pay the costs of such suit
+(including the reasonable compensation, expenses and disbursements of its agents and counsel), and may assess reasonable costs against
+any such party litigant, in the manner and to the extent provided in the Trust Indenture Act; provided that neither this Section 513 nor the Trust
+Indenture Act shall be deemed to authorize any court to require such an undertaking or to make such an assessment in any suit instituted by
+the Company or the Trustee, a suit by a Holder under Section 508, or a suit by Holders of more than 10% in aggregate principal amount of the
+Outstanding Securities.
+Section 514. Waiver of Usury, Stay or Extension Laws.
+The Company covenants (to the extent that it may lawfully do so) that it will not at any time insist upon, or plead, or in any manner
+whatsoever claim or take the benefit or advantage of, any usury, stay or extension law wherever enacted, now or at any time hereafter in
+force, which may affect the covenants or the performance of this Indenture; and the Company (to the extent that it may lawfully do so) hereby
+expressly waives all benefit or advantage of any such law and covenants that it will not hinder, delay or impede the execution of any power
+herein granted to the Trustee, but will suffer and permit the execution of every such power as though no such law had been enacted.
+Section 515. Restoration of Rights and Remedies.
+If the Trustee or any Holder has instituted any proceeding to enforce any right or remedy under this Indenture and such proceeding has
+been discontinued or abandoned for any reason, or has been determined adversely to the Trustee or to such Holder, then and in every such
+case, subject to any determination in such proceeding, the Company, the Trustee and the Holders shall be restored severally and respectively
+to their former positions hereunder and thereafter all rights and remedies of the Trustee and the Holders shall continue as though no such
+proceeding had been instituted.
+ARTICLE VI
+THE TRUSTEE
+Section 601. Certain Duties and Responsibilities of Trustee.
+(1) Except during the continuance of an Event of Default with respect to any series of Securities,
+(A) the Trustee undertakes to perform such duties and only such duties as are specifically set forth in this Indenture with
+respect to the Securities of such series, and no implied covenants or obligations shall be read into this Indenture against
+the Trustee with respect to such series; and
+(B) in the absence of bad faith on its part, the Trustee may rely with respect to the Securities of such series, as to the truth of
+the statements and the correctness of the opinions expressed therein, upon certificates or opinions furnished to the Trustee
+and conforming to the requirements of this Indenture; but in the case of any such certificates or opinions which by any
+provision hereof are specifically required to be furnished to the Trustee, the Trustee shall be under a duty to examine the
+same to determine whether or not they conform to the requirements of this Indenture (but need not confirm or investigate
+the accuracy of mathematical calculations or other facts stated therein).
+25
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 30/51

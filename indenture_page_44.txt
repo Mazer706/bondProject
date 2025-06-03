@@ -1,0 +1,37 @@
+6/3/25, 12:26 PM EX-4.1
+If any Security selected for partial redemption is converted in part before termination of the conversion right with respect to the portion of
+the Security so selected, the converted portion of such Security shall be deemed (so far as may be) to be the portion selected for redemption.
+Securities which have been converted during a selection of securities to be redeemed shall be treated by the Trustee as Outstanding for the
+purpose of such selection.
+The Trustee shall promptly notify the Company in writing of the Securities selected for redemption as aforesaid and, in case of any
+Securities selected for partial redemption as aforesaid, the principal amount thereof to be redeemed.
+The provisions of the three preceding paragraphs shall not apply with respect to any redemption affecting only a single Security, whether
+such Security is to be redeemed in whole or in part. In the case of any such redemption in part, the unredeemed portion of the principal
+amount of the Security shall be in an authorized denomination (which shall not be less than the minimum authorized denomination) for such
+Security.
+For all purposes of this Indenture, unless the context otherwise requires, all provisions relating to the redemption of Securities shall
+relate, in the case of any Securities redeemed or to be redeemed only in part, to the portion of the principal amount of such Securities which
+has been or is to be redeemed. If the Company shall so direct, Securities registered in the name of the Company, any Affiliate or any
+Subsidiary thereof shall not be included in the Securities selected for redemption.
+Section 1104. Notice of Redemption.
+Notice of redemption shall be given by first-class mail, postage prepaid, mailed or otherwise in accordance with the Applicable
+Procedures not less than 10 nor more than 60 days prior to the Redemption Date (or within such period as otherwise specified as
+contemplated by Section 301 for Securities of a series), to each Holder of Securities to be redeemed, at such Holder’s address appearing in
+the Security Register.
+All notices of redemption shall identify the Securities to be redeemed and shall state:
+(1) the Redemption Date;
+(2) the Redemption Price (or the method of calculating such price);
+(3) if less than all the Outstanding Securities of any series consisting of more than a single Security are to be redeemed, the
+identification (and, in the case of partial redemption of any such Securities, the principal amounts) of the particular Securities to be
+redeemed and, if less than all the Outstanding Securities of any series consisting of a single Security are to be redeemed, the
+principal amount of the particular Security to be redeemed;
+(4) that on the Redemption Date the Redemption Price will become due and payable upon each such Security to be redeemed and, if
+applicable, that interest thereon will cease to accrue on and after said date;
+(5) the place or places where each such Security is to be surrendered for payment of the Redemption Price;
+(6) for any Securities that by their terms may be converted, the terms of conversion, the date on which the right to convert the Security
+to be redeemed will terminate and the place or places where such Securities may be surrendered for conversion;
+(7) that the redemption is for a sinking fund, if such is the case; and
+(8) if applicable, the CUSIP numbers of the Securities of such series; provided, however, that no representation will be made as to the
+correctness or accuracy of the CUSIP number, or any similar number, if any, listed in such notice or printed on the Securities.
+39
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 44/51

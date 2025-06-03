@@ -1,0 +1,39 @@
+6/3/25, 12:26 PM EX-4.1
+The Company may also from time to time designate one or more other offices or agencies where the Securities of one or more series
+may be presented or surrendered for any or all such purposes and may from time to time rescind such designations; provided, however, that
+no such designation or rescission shall in any manner relieve the Company of its obligation to maintain an office or agency in each Place of
+Payment for Securities of any series for such purposes. The Company will give prompt written notice to the Trustee of any such designation or
+rescission and of any change in the location of any such other office or agency.
+With respect to any Global Security, and except as otherwise may be specified for such Global Security as contemplated by
+Section 301, the Corporate Trust Office of the Trustee shall be the Place of Payment where such Global Security may be presented or
+surrendered for payment or for registration of transfer or exchange, or where successor Securities may be delivered in exchange therefor; and
+such Place of Payment with respect to a Global Security in New York, New York shall be at an office of the Trustee located at 101 Barclay
+Street, Floor 4W, New York, New York 10286, Attention: Corporate Trust Administration; provided, however, that any such payment,
+presentation, surrender or delivery effected pursuant to the Applicable Procedures of the Depositary for such Global Security shall be deemed
+to have been effected at the Place of Payment for such Global Security in accordance with the provisions of this Indenture.
+Section 1003. Money for Securities Payments to Be Held in Trust.
+If the Company shall at any time act as its own Paying Agent with respect to any series of Securities, it will, on or before each due date
+for the principal of or premium, if any, or interest on any of the Securities of such series, segregate and hold in trust for the benefit of the
+Holders of such Securities a sum sufficient to pay the principal and premium, if any, and interest so becoming due until such sums shall be
+paid to such Holders or otherwise disposed of as herein provided and will promptly notify the Trustee of its action or failure so to act.
+Whenever the Company shall have one or more Paying Agents for any series of Securities, it will, no later than 11:00 a.m. (New York
+City time) on each due date for the principal of or premium, if any, or interest on any Securities of such series, deposit with a Paying Agent a
+sum sufficient to pay such amount, such sum to be held in trust for the Holders of such Securities entitled to the same, and (unless such
+Paying Agent is the Trustee) the Company will promptly notify the Trustee of its action or failure so to act.
+The Company will cause each Paying Agent for any series of Securities other than the Trustee to execute and deliver to the Trustee an
+instrument in which such Paying Agent shall agree with the Trustee, subject to the provisions of this Section 1003, that such Paying Agent
+shall hold in trust for the benefit of Holders or the Trustee all money held by such Paying Agent for the payment of principal of or interest on
+the Securities and shall notify the Trustee in writing of any default by the Company in making any such payment.
+The Company may at any time, for the purpose of obtaining the satisfaction and discharge of this Indenture or for any other purpose,
+pay, or by Company Order direct any Paying Agent to pay, to the Trustee all sums held in trust by the Company or such Paying Agent, such
+sums to be held by the Trustee upon the same trusts as those upon which such sums were held by the Company or such Paying Agent; and,
+upon such payment by any Paying Agent to the Trustee, such Paying Agent shall be released from all further liability with respect to such
+money.
+Subject to any applicable abandoned property law, any money deposited with the Trustee or any Paying Agent, or then held by the
+Company, in trust for the payment of the principal of or premium, if any, or interest on any Security of any series and remaining unclaimed for
+two years after such principal, premium or interest has become due and payable shall be paid to the Company on Company Request, or (if
+then held by the Company) shall be discharged from such trust; and the Holder of such Security shall thereafter, as an unsecured general
+creditor, look only to the Company for payment thereof, and all liability of the Trustee or such Paying Agent with respect to such trust money,
+and all liability of the Company as trustee thereof, shall thereupon cease.
+37
+https://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm 42/51
